@@ -119,12 +119,13 @@ Very masculine = 5<br />
 Somewhat masculine = 4<br />
 Not very masculine = 3<br />
 Not at all masculine = 2<br />
-<code>see_as_masculine</code> - How important is it to you that others see you as masculine? Very important = 5<br />
+<code>see_as_masculine</code> - How important is it to you that others see you as masculine?<br />
+Very important = 5<br />
 Somewhat important = 4<br />
 Not too important = 3<br />
 Not at all important = 2<br />
 <code>society_pressure_is_bad</code> - Do you think that society puts pressure on men in a way that is unhealthy or bad for them?<br />
-<code>first_move</code> - Do you typically feel as though you’re expected to make the first move in romantic relationships?<br />
+<code>first_move</code> - Do you typically feel as though you’re expected to make the first move in romantic relationships<br />
 <code>try_pay_date</code> - How often do you try to be the one who pays when on a date?<br />
 Always<br />
 Often<br />
@@ -179,6 +180,7 @@ md =<span class="st"> </span><span class="kw">lm</span>(masculine <span class="o
 </div>
 <div id="conclusao" class="section level2">
 <h2>Conclusão</h2>
+<p>Regressão linear múltipla foi utilizada para analisar a associação entre o “O que homens acham que significa ser homem” e as variáveis “O quão importante é que as pessoas o vejam como ‘masculino’” (<code>see_as_masculine</code>), “Se você sente que sempre deve dar o primeiro passo nas relações” (<code>first_move</code>), “O homem sofre pressão da sociedade”(<code>society_pressure_is_bad</code>), “Geralmente pagar ou nao nos encontros” (<code>try_pay_date</code>), “Raça”(<code>white</code>), “Faixa de idade”(<code>age_range</code>), “Ter filhos”(<code>kids</code>) e “Orientação sexual” (<code>straight</code>), no formato: masculine = 3.20 + (0,165) . see_as_masculine - (0.113) . first_moveYes - (0.0987) . society_pressur + (0.100) . try_pay_date - (0.0414) . whiteyes + (0.0309) age_range - (0.0572) . kidsyes + (0.163) . straightyes que explica <strong>10,3%</strong> da variável de resposta (R² = 0.1028025). Podemos observar, a partir do modelo que a variável <code>see_as_masculine</code> é aquela que mais tem influencia, mas ainda assim, baixa.</p>
 </div>
 </div>
 
