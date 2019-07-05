@@ -1,0 +1,1616 @@
+id,masculine,see_as_masculine,society_pressure_is_bad,first_move,try_pay_date,state,white,age_range,kids,straight
+1,4,4,Yes,Yes,3,New York,no,3,yes,no
+2,4,4,Yes,No,2,Ohio,yes,4,no,yes
+3,5,3,No,Yes,3,Michigan,yes,3,no,yes
+4,5,3,No,Yes,5,Indiana,yes,4,no,NA
+5,5,5,Yes,No,5,Ohio,yes,3,yes,yes
+6,5,4,Yes,No,5,Indiana,yes,4,no,yes
+7,4,3,No,Yes,3,Hawaii,no,2,no,no
+8,4,4,Yes,Yes,4,New York,yes,4,yes,yes
+9,5,2,No,No,5,California,no,3,no,yes
+10,4,4,No,Yes,5,Oregon,yes,3,yes,yes
+11,5,4,No,Yes,5,Michigan,yes,3,no,yes
+12,4,3,Yes,Yes,4,South Carolina,yes,3,yes,yes
+13,5,4,No,No,3,Florida,yes,3,yes,yes
+14,5,5,Yes,Yes,5,California,no,2,no,yes
+15,2,2,Yes,No,1,Massachusetts,yes,2,yes,yes
+16,4,4,No,Yes,NA,West Virginia,yes,4,no,yes
+17,4,3,Yes,Yes,3,Minnesota,yes,3,no,no
+18,4,3,Yes,No,4,Kansas,yes,3,yes,yes
+19,5,4,No,No,4,Florida,yes,4,no,yes
+20,4,4,No,Yes,5,California,no,3,yes,yes
+21,3,4,No,Yes,3,Oregon,no,4,yes,yes
+22,4,4,Yes,Yes,4,Utah,yes,3,no,yes
+23,4,3,No,Yes,3,Kansas,yes,3,no,yes
+24,5,4,No,No,3,Texas,yes,3,no,yes
+25,5,3,No,No,4,Michigan,yes,4,yes,yes
+26,4,3,Yes,Yes,5,New Jersey,yes,4,no,yes
+27,3,4,Yes,Yes,5,Texas,yes,4,no,yes
+28,2,2,Yes,No,1,Texas,yes,4,no,yes
+29,5,4,Yes,Yes,5,New York,yes,4,no,yes
+30,3,4,No,Yes,4,Utah,yes,4,yes,yes
+31,4,4,No,Yes,5,Texas,yes,3,no,yes
+32,4,4,Yes,Yes,3,Pennsylvania,no,2,yes,yes
+33,3,3,No,Yes,5,California,yes,3,no,yes
+34,4,4,Yes,No,4,Washington,yes,4,yes,yes
+35,5,4,No,Yes,5,South Dakota,yes,3,no,yes
+36,4,4,Yes,No,4,Minnesota,yes,3,no,yes
+37,4,3,No,No,3,Washington,yes,3,no,yes
+38,5,3,No,Yes,5,Arizona,yes,4,no,yes
+39,3,3,Yes,No,1,South Carolina,no,3,no,yes
+40,4,3,Yes,Yes,2,Washington,yes,4,no,yes
+41,3,3,No,Yes,5,Washington,yes,3,yes,yes
+42,4,3,Yes,Yes,3,Idaho,yes,4,no,yes
+43,5,4,Yes,Yes,5,Texas,yes,3,yes,yes
+44,5,5,Yes,No,5,Texas,yes,4,no,yes
+45,4,2,No,Yes,1,Florida,yes,4,no,yes
+46,3,3,No,Yes,5,Oregon,yes,4,no,yes
+47,3,3,Yes,Yes,4,Michigan,yes,2,no,yes
+48,5,4,No,Yes,5,Oregon,yes,4,no,yes
+49,4,4,Yes,Yes,5,Oregon,yes,3,yes,yes
+50,3,4,Yes,Yes,4,Florida,no,2,yes,yes
+51,4,3,Yes,Yes,4,Washington,yes,4,no,yes
+52,5,4,No,No,1,Ohio,yes,3,yes,no
+53,4,2,No,Yes,5,Washington,yes,4,no,yes
+54,4,3,Yes,Yes,4,Washington,yes,3,no,yes
+55,4,3,No,Yes,4,Massachusetts,yes,3,no,yes
+56,4,3,No,No,5,Oregon,yes,3,yes,yes
+57,5,3,No,Yes,5,Washington,yes,4,no,yes
+58,5,3,Yes,Yes,3,Oregon,yes,4,no,yes
+59,4,4,Yes,No,4,Oregon,yes,4,no,yes
+60,5,5,No,No,5,Missouri,yes,3,yes,yes
+61,5,5,Yes,No,4,Washington,yes,4,no,yes
+62,5,2,Yes,No,1,Washington,yes,4,no,yes
+63,3,4,Yes,Yes,4,California,yes,2,yes,yes
+64,3,4,Yes,Yes,4,Georgia,yes,3,no,yes
+65,5,4,Yes,Yes,5,Washington,yes,4,no,yes
+66,4,3,No,No,4,Texas,yes,3,yes,no
+67,5,5,No,No,5,Idaho,yes,3,no,yes
+68,4,3,Yes,Yes,5,New York,yes,4,no,yes
+69,5,2,Yes,No,4,Nebraska,yes,3,no,yes
+70,4,3,Yes,NA,4,Kentucky,yes,4,yes,no
+71,4,4,No,Yes,5,Nevada,yes,3,no,yes
+72,5,4,Yes,No,3,California,no,4,no,yes
+73,4,4,No,No,4,New York,yes,4,no,yes
+74,4,3,Yes,Yes,5,Arizona,yes,3,yes,NA
+75,4,4,Yes,Yes,5,Oregon,yes,4,no,yes
+76,4,3,No,No,5,Texas,yes,4,no,yes
+77,3,2,Yes,Yes,4,California,no,3,yes,yes
+78,5,4,Yes,No,4,Texas,yes,3,yes,yes
+79,5,2,Yes,Yes,5,California,yes,4,no,yes
+80,4,4,Yes,Yes,5,Pennsylvania,yes,3,no,yes
+81,4,4,Yes,Yes,3,Texas,yes,3,yes,no
+82,5,4,No,No,4,Oregon,yes,4,no,yes
+83,4,5,Yes,Yes,4,Oregon,yes,3,no,no
+84,5,3,No,Yes,5,New York,no,4,no,yes
+85,5,5,Yes,Yes,5,Arizona,yes,3,yes,yes
+86,5,5,No,No,5,Idaho,yes,3,no,yes
+87,5,3,No,Yes,1,New Jersey,yes,4,no,yes
+88,4,4,Yes,Yes,5,Florida,yes,4,no,yes
+89,5,4,No,No,4,Delaware,yes,4,yes,yes
+90,3,4,No,Yes,3,New Jersey,yes,3,yes,NA
+91,4,3,Yes,No,4,New York,yes,2,yes,yes
+92,4,4,Yes,Yes,4,New York,yes,4,no,yes
+93,4,3,Yes,Yes,5,Texas,yes,3,no,yes
+94,4,3,No,No,3,Maryland,yes,3,yes,no
+95,5,4,No,Yes,5,Nevada,no,4,yes,yes
+96,4,3,Yes,Yes,5,Virginia,yes,4,no,yes
+97,3,2,No,Yes,5,Alabama,yes,3,yes,NA
+98,4,4,No,Yes,5,Georgia,yes,2,no,yes
+99,5,2,Yes,No,5,Texas,yes,4,no,yes
+100,4,3,No,Yes,5,California,yes,4,no,yes
+101,4,4,No,Yes,5,Tennessee,yes,3,no,yes
+102,4,2,Yes,No,5,Washington,yes,4,no,yes
+103,5,5,Yes,Yes,5,Pennsylvania,yes,4,no,yes
+104,4,3,Yes,Yes,4,Arizona,yes,3,no,yes
+105,5,4,Yes,Yes,5,Florida,yes,4,yes,yes
+106,4,2,Yes,Yes,5,Arizona,no,2,no,yes
+107,3,3,No,Yes,3,Nebraska,yes,4,no,yes
+108,5,3,Yes,No,4,New York,yes,4,yes,no
+109,4,3,Yes,No,3,Texas,yes,4,no,yes
+110,4,5,Yes,Yes,5,Montana,yes,3,yes,yes
+111,5,5,No,No,3,West Virginia,yes,4,no,yes
+112,4,3,No,No,NA,Washington,yes,3,no,yes
+113,4,4,No,Yes,4,California,yes,3,no,no
+114,4,4,No,No,5,North Carolina,no,3,no,yes
+115,5,2,Yes,No,5,New York,no,2,yes,yes
+116,5,5,No,Yes,5,New York,yes,4,no,yes
+117,5,4,Yes,Yes,5,Texas,no,2,no,yes
+118,2,3,Yes,No,2,Iowa,no,2,yes,no
+119,4,4,Yes,Yes,5,Texas,yes,3,yes,yes
+120,4,3,Yes,Yes,5,North Carolina,no,2,yes,no
+121,5,4,No,No,4,Florida,yes,4,no,yes
+122,5,3,No,Yes,5,Illinois,yes,4,no,yes
+123,4,4,No,No,5,Florida,yes,3,no,yes
+124,4,3,Yes,No,5,California,yes,4,no,yes
+125,4,2,Yes,No,5,Vermont,yes,3,NA,yes
+126,5,4,No,Yes,5,California,yes,3,no,yes
+127,4,5,Yes,No,4,Arizona,yes,3,yes,no
+128,3,4,Yes,Yes,5,Texas,yes,3,no,yes
+129,5,3,No,No,5,Florida,yes,4,no,yes
+130,5,4,No,Yes,5,Missouri,yes,3,no,yes
+131,4,4,No,No,5,Ohio,yes,3,no,yes
+132,4,3,Yes,Yes,5,Idaho,yes,4,no,yes
+133,3,2,Yes,No,4,Illinois,yes,3,yes,yes
+134,4,3,Yes,No,3,Georgia,yes,4,yes,yes
+135,4,4,No,Yes,4,Oregon,yes,4,no,yes
+136,5,3,Yes,Yes,5,Louisiana,yes,2,no,yes
+137,4,3,Yes,Yes,4,Washington,yes,4,yes,yes
+138,5,4,Yes,Yes,5,Nevada,yes,4,no,yes
+139,5,4,Yes,Yes,4,Vermont,yes,3,yes,no
+140,2,2,Yes,No,1,California,yes,2,yes,NA
+141,3,2,Yes,Yes,5,Minnesota,yes,2,yes,yes
+142,5,4,No,Yes,5,Maryland,yes,3,yes,yes
+143,4,5,Yes,No,3,Louisiana,no,2,no,yes
+144,5,4,No,No,5,Connecticut,yes,4,no,yes
+145,3,2,Yes,Yes,2,California,no,2,yes,yes
+146,NA,2,NA,Yes,5,New York,no,3,no,yes
+147,4,3,Yes,Yes,3,Connecticut,yes,4,no,yes
+148,4,4,Yes,Yes,5,Iowa,yes,3,no,yes
+149,4,4,No,No,4,Kentucky,no,3,no,yes
+150,5,4,Yes,Yes,5,New York,no,3,yes,yes
+151,4,3,No,Yes,5,Texas,yes,3,yes,yes
+152,4,4,Yes,Yes,3,Florida,no,3,no,yes
+153,4,3,No,No,4,Maine,yes,3,no,yes
+154,2,2,No,No,3,Oklahoma,yes,3,no,yes
+155,5,4,No,Yes,5,Illinois,yes,3,no,yes
+156,3,2,Yes,No,4,Texas,yes,3,yes,yes
+157,4,3,No,No,5,Louisiana,yes,4,no,yes
+158,4,3,Yes,Yes,3,Iowa,yes,3,no,yes
+159,4,3,Yes,Yes,4,Ohio,yes,3,yes,yes
+160,4,NA,Yes,Yes,4,Florida,yes,3,no,yes
+161,3,2,Yes,No,3,Vermont,yes,3,no,yes
+162,5,2,No,No,5,New Jersey,yes,4,yes,yes
+163,4,4,No,No,4,California,yes,3,no,no
+164,5,4,Yes,Yes,4,Texas,no,2,yes,yes
+165,3,3,Yes,Yes,4,Illinois,no,4,no,yes
+166,4,4,Yes,NA,4,Florida,no,2,no,yes
+167,5,2,No,Yes,5,South Carolina,no,3,no,yes
+168,4,2,No,No,NA,Maryland,no,3,yes,yes
+169,4,5,Yes,Yes,5,Texas,yes,3,no,NA
+170,5,3,Yes,Yes,4,Ohio,yes,4,no,NA
+171,4,4,No,No,1,Pennsylvania,yes,2,yes,yes
+172,4,4,Yes,Yes,5,Texas,no,3,yes,yes
+173,4,3,Yes,No,3,California,yes,4,yes,no
+174,5,3,Yes,No,4,Oregon,yes,4,no,yes
+175,4,3,Yes,Yes,4,California,no,4,yes,NA
+176,5,5,No,No,4,Idaho,yes,4,no,NA
+177,4,4,Yes,Yes,4,Texas,yes,3,yes,yes
+178,2,4,Yes,No,3,Florida,yes,3,yes,no
+179,4,3,Yes,No,3,Iowa,yes,2,yes,no
+180,4,2,Yes,Yes,4,New York,no,2,no,yes
+181,4,3,No,No,5,New York,yes,4,no,yes
+182,4,3,No,Yes,5,Ohio,yes,3,no,yes
+183,5,4,No,No,4,Oregon,yes,3,yes,yes
+184,5,2,Yes,Yes,5,New Mexico,yes,3,yes,no
+185,5,4,No,Yes,4,California,yes,3,no,yes
+186,4,4,Yes,No,5,California,yes,4,no,yes
+187,4,3,Yes,No,1,Oregon,yes,3,no,yes
+188,5,5,Yes,Yes,5,Virginia,yes,3,no,yes
+189,3,3,Yes,Yes,5,Florida,yes,3,yes,no
+190,2,2,Yes,Yes,5,Washington,yes,3,yes,yes
+191,5,5,Yes,Yes,5,Nevada,yes,4,no,yes
+192,5,5,No,Yes,5,Connecticut,yes,4,no,yes
+193,4,4,Yes,Yes,4,Texas,yes,3,no,yes
+194,3,4,Yes,Yes,5,Texas,yes,3,no,yes
+195,5,4,Yes,Yes,5,Georgia,yes,4,no,yes
+196,4,4,No,Yes,5,Arizona,yes,4,no,yes
+197,4,4,Yes,Yes,5,Mississippi,yes,3,no,yes
+198,5,4,Yes,No,5,Tennessee,yes,3,no,yes
+199,5,5,Yes,Yes,5,Texas,no,3,no,yes
+200,3,4,Yes,Yes,5,California,no,2,yes,yes
+201,5,5,Yes,No,5,Hawaii,yes,4,no,yes
+202,4,4,Yes,Yes,5,California,yes,4,no,yes
+203,4,3,No,Yes,5,Kentucky,yes,3,yes,yes
+204,4,3,No,No,5,New York,yes,4,yes,yes
+205,4,2,Yes,Yes,4,Michigan,yes,3,no,yes
+206,4,4,Yes,No,5,Pennsylvania,yes,4,no,yes
+207,5,4,Yes,Yes,5,Arizona,no,3,no,yes
+208,5,2,No,No,5,North Dakota,yes,3,no,yes
+209,4,3,Yes,No,4,Massachusetts,yes,3,no,yes
+210,5,3,Yes,Yes,4,California,yes,4,no,yes
+211,4,3,Yes,No,4,New York,yes,2,yes,yes
+212,4,3,Yes,NA,5,Delaware,yes,4,no,yes
+213,5,5,Yes,Yes,5,Utah,yes,2,no,yes
+214,4,4,No,NA,NA,Texas,yes,4,no,yes
+215,2,2,No,Yes,5,Rhode Island,yes,3,no,yes
+216,4,2,No,Yes,5,California,yes,4,no,yes
+217,5,4,Yes,Yes,5,California,yes,4,no,yes
+218,4,3,Yes,Yes,3,Oregon,yes,3,no,yes
+219,5,4,No,No,4,Minnesota,yes,4,no,yes
+220,3,2,Yes,Yes,3,Washington,yes,3,yes,no
+221,5,5,No,No,4,Florida,yes,3,no,yes
+222,5,4,Yes,No,4,Indiana,yes,4,no,yes
+223,4,4,Yes,No,5,Virginia,yes,3,no,yes
+224,4,4,No,No,4,Michigan,yes,4,no,yes
+225,4,4,Yes,No,5,Maryland,yes,4,no,yes
+226,5,4,Yes,No,4,Florida,no,2,no,yes
+227,4,3,No,Yes,5,Washington,yes,3,no,yes
+228,4,4,Yes,No,5,Illinois,yes,3,no,yes
+229,4,4,Yes,No,1,New York,yes,3,yes,yes
+230,5,4,Yes,Yes,5,Illinois,yes,4,no,yes
+231,5,5,No,No,2,Louisiana,no,2,no,no
+232,4,3,No,Yes,4,Massachusetts,yes,3,no,yes
+233,5,4,Yes,No,4,Washington,yes,4,yes,no
+234,5,4,No,Yes,5,Florida,yes,3,yes,yes
+235,4,4,Yes,No,4,Wisconsin,yes,3,no,yes
+236,5,4,No,No,1,Illinois,yes,4,yes,yes
+237,4,3,No,Yes,5,California,yes,3,no,yes
+238,4,3,No,No,3,California,yes,3,yes,yes
+239,5,5,Yes,Yes,5,California,yes,3,yes,yes
+240,4,4,No,Yes,4,Massachusetts,yes,3,yes,yes
+241,5,3,No,Yes,4,New York,yes,3,no,yes
+242,5,4,Yes,Yes,3,California,yes,2,no,yes
+243,4,3,No,Yes,4,Kentucky,yes,3,yes,yes
+244,4,4,Yes,No,3,Wisconsin,no,2,yes,no
+245,4,4,Yes,Yes,4,California,no,2,yes,no
+246,4,3,Yes,No,3,Oregon,yes,4,no,yes
+247,5,3,Yes,Yes,4,Washington,yes,4,yes,yes
+248,4,5,No,No,5,Washington,yes,3,no,yes
+249,5,5,No,No,3,Pennsylvania,yes,4,no,yes
+250,5,5,No,Yes,5,Nevada,yes,4,yes,yes
+251,4,5,Yes,Yes,5,Indiana,yes,4,no,yes
+252,4,4,Yes,Yes,4,Florida,yes,2,no,yes
+253,5,4,Yes,Yes,4,North Carolina,yes,2,yes,yes
+254,4,4,No,No,5,Florida,yes,3,yes,yes
+255,5,3,Yes,No,3,Texas,yes,3,yes,yes
+256,5,3,Yes,No,3,California,yes,4,no,no
+257,3,3,No,No,5,Florida,yes,4,no,yes
+258,3,2,Yes,No,4,Washington,yes,3,no,yes
+259,4,3,Yes,No,3,Michigan,yes,3,no,yes
+260,4,3,Yes,No,4,New Hampshire,yes,3,yes,yes
+261,4,3,No,No,4,Georgia,yes,4,no,yes
+262,5,5,No,No,5,Ohio,yes,4,no,yes
+263,4,3,No,Yes,5,Wisconsin,yes,4,no,yes
+264,5,4,No,Yes,4,Alabama,yes,3,yes,yes
+265,5,5,No,Yes,5,Texas,yes,3,no,yes
+266,3,3,No,Yes,5,Pennsylvania,yes,3,no,yes
+267,3,3,Yes,Yes,4,California,yes,4,yes,no
+268,4,5,Yes,Yes,4,New Jersey,yes,4,yes,no
+269,4,4,No,Yes,1,California,yes,4,no,yes
+270,4,4,Yes,Yes,5,Kansas,yes,4,no,yes
+271,4,5,No,No,3,North Carolina,yes,4,yes,yes
+272,4,3,Yes,No,5,Missouri,yes,4,no,yes
+273,4,4,Yes,Yes,5,Kentucky,no,3,no,yes
+274,5,4,No,No,4,California,yes,3,no,yes
+275,3,3,No,Yes,5,Hawaii,no,3,no,yes
+276,5,3,No,Yes,4,Florida,yes,4,no,yes
+277,5,3,Yes,Yes,5,Montana,yes,3,yes,yes
+278,4,3,Yes,Yes,5,Texas,yes,4,no,yes
+279,4,4,Yes,Yes,5,California,yes,4,yes,yes
+280,4,4,Yes,Yes,5,Kentucky,yes,3,yes,yes
+281,5,3,Yes,No,3,California,yes,2,yes,yes
+282,5,2,Yes,No,4,Minnesota,yes,4,no,yes
+283,5,3,Yes,Yes,5,Indiana,yes,3,no,yes
+284,3,4,Yes,Yes,5,West Virginia,yes,3,no,no
+285,4,4,Yes,Yes,5,Ohio,yes,3,yes,yes
+286,4,5,No,No,5,California,no,2,no,yes
+287,5,4,Yes,Yes,5,Florida,yes,4,no,yes
+288,4,3,Yes,No,3,New York,yes,3,no,yes
+289,4,5,Yes,Yes,5,Florida,yes,3,yes,no
+290,4,3,No,Yes,3,Maryland,yes,4,no,yes
+291,4,4,No,No,3,New Jersey,yes,4,no,yes
+292,3,4,No,Yes,3,Tennessee,yes,3,no,no
+293,4,4,Yes,Yes,5,West Virginia,yes,3,no,yes
+294,4,4,Yes,Yes,4,Pennsylvania,yes,3,yes,yes
+295,5,4,Yes,Yes,5,New Jersey,yes,2,yes,yes
+296,5,4,Yes,No,3,Hawaii,yes,3,no,no
+297,4,2,Yes,Yes,5,Ohio,yes,4,yes,yes
+298,4,3,Yes,Yes,3,Oregon,no,3,yes,no
+299,5,5,Yes,Yes,4,Maryland,yes,4,no,yes
+300,5,2,Yes,Yes,1,Georgia,yes,2,yes,no
+301,5,5,No,No,3,Minnesota,no,2,yes,yes
+302,5,3,Yes,Yes,5,Michigan,no,3,no,NA
+303,3,3,Yes,No,4,New Hampshire,yes,3,yes,no
+304,5,5,No,No,1,Ohio,yes,4,no,yes
+305,3,3,No,Yes,5,California,yes,4,no,yes
+306,5,4,Yes,Yes,3,Washington,yes,4,yes,yes
+307,5,3,No,No,4,North Carolina,yes,4,yes,yes
+308,4,4,Yes,Yes,5,New York,yes,4,no,yes
+309,5,2,Yes,NA,NA,New Jersey,no,3,no,yes
+310,4,3,No,No,3,California,yes,3,yes,no
+311,5,2,Yes,No,5,California,yes,4,yes,yes
+312,4,4,Yes,No,4,New Jersey,yes,3,no,yes
+313,5,5,No,No,5,Washington,yes,3,no,yes
+314,4,4,Yes,Yes,5,Texas,yes,4,no,yes
+315,4,3,Yes,Yes,4,Illinois,yes,4,no,yes
+316,4,4,No,Yes,5,Colorado,yes,4,no,yes
+317,4,3,Yes,Yes,5,New York,yes,3,no,yes
+318,5,3,No,No,5,Michigan,yes,4,no,yes
+319,2,2,Yes,No,3,Pennsylvania,yes,2,yes,no
+320,4,4,Yes,Yes,5,California,no,3,no,yes
+321,5,4,Yes,No,5,New Hampshire,yes,3,no,yes
+322,4,2,Yes,No,5,Nevada,yes,4,no,yes
+323,4,2,Yes,Yes,NA,Kentucky,yes,4,yes,yes
+324,4,3,No,Yes,5,Maryland,yes,3,no,yes
+325,4,4,Yes,No,1,Mississippi,no,3,no,yes
+326,4,3,Yes,No,5,Texas,yes,3,no,yes
+327,4,3,Yes,Yes,4,New York,no,2,no,yes
+328,4,4,Yes,Yes,4,Missouri,yes,4,no,yes
+329,5,4,Yes,Yes,5,California,yes,3,no,yes
+330,4,2,Yes,Yes,4,Wisconsin,yes,4,yes,NA
+331,5,4,Yes,No,4,Washington,yes,4,no,yes
+332,4,4,Yes,No,4,Minnesota,yes,3,no,yes
+333,4,4,Yes,Yes,5,New Jersey,yes,3,no,yes
+334,4,3,No,NA,NA,Virginia,yes,3,NA,NA
+335,5,5,Yes,No,5,Illinois,yes,4,yes,yes
+336,5,2,No,Yes,5,Tennessee,yes,3,yes,no
+337,2,2,No,No,3,Alabama,yes,4,no,NA
+338,4,3,Yes,Yes,4,Florida,yes,3,no,yes
+339,4,4,Yes,Yes,5,Missouri,yes,4,no,yes
+340,4,4,Yes,Yes,5,Minnesota,yes,4,no,NA
+341,3,4,Yes,Yes,5,Minnesota,no,3,no,NA
+342,4,3,Yes,Yes,5,Florida,yes,4,no,yes
+343,4,3,Yes,Yes,4,New York,yes,4,no,yes
+344,3,2,Yes,Yes,4,Michigan,yes,4,no,yes
+345,4,4,Yes,Yes,5,Florida,yes,4,no,yes
+346,5,4,No,Yes,5,New York,yes,4,no,yes
+347,5,4,Yes,No,5,Arizona,no,3,no,yes
+348,5,5,Yes,Yes,5,California,yes,4,yes,yes
+349,5,2,Yes,Yes,5,Texas,no,3,no,yes
+350,5,5,No,Yes,2,California,yes,4,no,yes
+351,5,2,No,No,5,Virginia,yes,4,no,yes
+352,4,4,Yes,Yes,4,Colorado,yes,4,yes,yes
+353,5,4,Yes,Yes,5,Illinois,yes,4,no,yes
+354,2,2,No,No,1,Pennsylvania,no,4,no,NA
+355,4,4,No,No,4,Illinois,yes,3,no,yes
+356,5,4,Yes,Yes,5,Texas,yes,4,no,yes
+357,4,4,Yes,Yes,5,Colorado,yes,3,no,yes
+358,4,4,Yes,Yes,4,Florida,yes,4,no,yes
+359,5,4,No,Yes,4,Montana,yes,3,yes,yes
+360,4,3,No,Yes,5,New Jersey,yes,4,no,yes
+361,4,4,No,Yes,5,New York,yes,4,yes,yes
+362,4,4,Yes,Yes,4,California,yes,3,yes,yes
+363,5,5,No,Yes,5,California,yes,3,no,yes
+364,4,3,No,Yes,5,Wisconsin,yes,3,no,yes
+365,4,3,Yes,Yes,5,New Jersey,yes,4,no,yes
+366,3,2,Yes,No,1,Nevada,yes,4,no,yes
+367,5,5,Yes,Yes,5,Texas,yes,2,no,yes
+368,5,5,No,Yes,5,Washington,yes,3,no,yes
+369,5,5,No,No,3,Florida,no,2,yes,yes
+370,4,4,No,No,5,Nevada,yes,4,no,yes
+371,4,3,No,Yes,5,California,no,3,no,yes
+372,4,4,No,Yes,4,Florida,yes,4,no,no
+373,4,5,No,Yes,5,South Carolina,no,3,no,yes
+374,4,4,No,Yes,5,Florida,yes,3,yes,yes
+375,4,2,No,No,1,New Jersey,yes,4,no,yes
+376,5,2,NA,Yes,4,Maryland,yes,4,no,yes
+377,4,3,Yes,Yes,5,Illinois,yes,3,no,yes
+378,4,4,Yes,Yes,5,California,yes,2,yes,yes
+379,NA,4,Yes,Yes,4,Minnesota,yes,4,yes,yes
+380,3,4,Yes,Yes,4,Arizona,yes,4,no,yes
+381,4,3,Yes,No,1,Texas,yes,3,no,yes
+382,5,4,No,No,5,New Jersey,yes,3,no,yes
+383,5,3,No,Yes,3,Minnesota,yes,4,no,yes
+384,4,4,Yes,No,4,New Jersey,yes,4,no,yes
+385,4,4,No,No,5,Florida,yes,4,no,yes
+386,5,5,Yes,Yes,5,Illinois,yes,3,no,yes
+387,5,3,Yes,No,5,Washington,yes,4,no,yes
+388,4,2,Yes,Yes,4,California,yes,3,yes,NA
+389,5,3,No,Yes,3,California,yes,2,no,yes
+390,5,3,Yes,Yes,3,Massachusetts,yes,3,yes,no
+391,5,3,No,No,5,Texas,no,3,no,yes
+392,3,3,No,No,5,Florida,yes,3,no,yes
+393,5,5,Yes,No,NA,Texas,yes,4,no,yes
+394,4,4,Yes,No,3,Oregon,yes,2,no,yes
+395,3,4,Yes,No,1,Utah,no,2,yes,yes
+396,4,4,No,Yes,4,Colorado,yes,3,no,yes
+397,4,4,Yes,Yes,4,Tennessee,yes,3,no,yes
+398,4,4,No,No,3,North Carolina,yes,4,no,yes
+399,4,5,No,No,5,Missouri,yes,3,no,yes
+400,4,2,No,No,5,Florida,no,3,no,yes
+401,4,3,Yes,No,5,Arizona,yes,4,no,yes
+402,4,3,No,Yes,5,Pennsylvania,yes,4,no,yes
+403,5,4,No,No,4,California,yes,4,no,yes
+404,4,3,No,Yes,4,Nebraska,yes,4,no,yes
+405,4,4,Yes,Yes,5,Iowa,yes,3,no,yes
+406,5,3,No,Yes,5,California,no,2,no,yes
+407,4,3,No,Yes,4,Virginia,yes,2,yes,yes
+408,5,4,No,No,4,Minnesota,yes,4,no,yes
+409,4,4,No,No,1,Kansas,yes,3,no,yes
+410,4,3,Yes,Yes,4,Michigan,yes,4,no,yes
+411,5,4,Yes,No,5,Florida,yes,4,no,yes
+412,4,4,Yes,Yes,5,California,yes,4,no,yes
+413,5,2,Yes,No,5,California,yes,4,no,yes
+414,4,5,Yes,Yes,4,Florida,yes,3,no,yes
+415,4,3,Yes,Yes,5,Idaho,yes,3,no,yes
+416,5,2,Yes,No,5,New Mexico,yes,3,no,yes
+417,5,2,No,No,5,California,yes,4,no,yes
+418,4,3,Yes,Yes,5,Oklahoma,yes,3,no,no
+419,5,2,Yes,No,5,Texas,no,4,no,yes
+420,5,5,Yes,Yes,5,Pennsylvania,yes,3,no,yes
+421,4,3,Yes,Yes,5,Pennsylvania,yes,4,no,yes
+422,4,3,Yes,Yes,5,Florida,yes,4,no,yes
+423,4,4,No,Yes,5,Virginia,no,3,yes,yes
+424,4,4,Yes,Yes,3,Illinois,yes,3,no,yes
+425,3,2,Yes,NA,NA,New York,yes,4,no,yes
+426,4,4,Yes,Yes,4,New Jersey,yes,4,no,yes
+427,3,3,Yes,No,2,California,yes,4,no,yes
+428,4,5,No,Yes,5,California,yes,4,yes,yes
+429,5,3,Yes,Yes,5,Washington,no,3,no,yes
+430,4,4,No,No,3,Georgia,no,3,no,yes
+431,5,3,Yes,Yes,5,Texas,yes,3,yes,yes
+432,4,3,Yes,No,NA,Oregon,yes,4,yes,yes
+433,5,5,No,Yes,5,Illinois,yes,4,no,yes
+434,4,4,No,Yes,5,North Carolina,yes,2,yes,no
+435,4,4,Yes,Yes,4,Washington,no,4,no,yes
+436,4,4,No,No,4,California,no,4,no,yes
+437,5,3,No,No,5,Hawaii,yes,2,yes,yes
+438,4,4,Yes,Yes,5,West Virginia,yes,3,no,yes
+439,4,4,No,NA,NA,Virginia,yes,4,no,yes
+440,4,3,Yes,No,3,California,yes,4,yes,no
+441,5,4,Yes,Yes,4,Massachusetts,yes,3,no,yes
+442,5,4,Yes,Yes,4,Pennsylvania,yes,3,no,yes
+443,5,3,Yes,No,3,Virginia,yes,3,yes,yes
+444,4,4,Yes,No,1,Pennsylvania,no,3,no,no
+445,5,3,Yes,Yes,5,California,yes,4,no,yes
+446,4,4,Yes,Yes,4,Ohio,yes,3,no,yes
+447,5,3,Yes,Yes,4,California,yes,4,no,NA
+448,5,4,Yes,Yes,5,Georgia,yes,4,no,yes
+449,4,4,No,Yes,5,Hawaii,yes,3,yes,yes
+450,4,4,No,No,5,Michigan,yes,3,no,yes
+451,4,4,Yes,No,2,Michigan,no,3,yes,yes
+452,4,3,Yes,Yes,4,Oregon,yes,3,yes,no
+453,4,2,Yes,Yes,5,Wyoming,yes,4,no,yes
+454,4,4,Yes,Yes,4,New Hampshire,yes,4,no,yes
+455,3,3,Yes,No,3,South Carolina,yes,3,no,yes
+456,4,4,Yes,Yes,5,Florida,yes,4,no,yes
+457,4,2,Yes,No,3,Oklahoma,yes,3,yes,no
+458,5,5,Yes,Yes,5,Wisconsin,yes,4,no,yes
+459,4,5,No,Yes,5,Washington,no,2,yes,yes
+460,4,3,No,Yes,5,Massachusetts,yes,3,no,yes
+461,4,4,No,Yes,5,Wisconsin,yes,3,no,yes
+462,4,2,Yes,No,4,Illinois,yes,4,no,yes
+463,4,4,No,Yes,4,Wisconsin,yes,3,no,yes
+464,4,4,Yes,No,4,Illinois,yes,3,yes,no
+465,4,5,Yes,Yes,4,Kentucky,yes,3,no,yes
+466,4,5,No,Yes,5,Pennsylvania,yes,3,yes,yes
+467,5,3,No,No,4,Pennsylvania,yes,3,no,yes
+468,5,3,Yes,No,5,Massachusetts,yes,4,no,yes
+469,4,3,No,Yes,4,Texas,no,3,no,yes
+470,5,2,No,No,5,Wisconsin,yes,3,no,yes
+471,5,5,No,Yes,5,New York,yes,3,no,yes
+472,5,2,Yes,Yes,NA,Alabama,yes,4,no,yes
+473,3,3,Yes,No,5,New York,yes,3,yes,yes
+474,4,4,No,Yes,5,Nebraska,yes,3,no,yes
+475,4,4,Yes,Yes,4,Pennsylvania,yes,3,yes,yes
+476,5,3,No,Yes,5,New York,yes,4,no,yes
+477,5,3,No,Yes,5,California,yes,4,yes,yes
+478,4,4,No,Yes,2,Pennsylvania,no,4,yes,yes
+479,4,4,No,No,4,California,yes,4,yes,no
+480,4,3,Yes,Yes,4,Massachusetts,yes,4,no,yes
+481,5,3,Yes,Yes,5,Maryland,yes,4,no,yes
+482,5,4,Yes,No,4,New Mexico,yes,3,no,yes
+483,5,4,No,No,3,New Mexico,yes,3,no,yes
+484,4,3,Yes,Yes,4,New York,yes,4,no,yes
+485,4,3,No,No,4,Maine,yes,4,no,yes
+486,5,5,Yes,Yes,3,Washington,yes,4,no,yes
+487,5,4,No,Yes,5,North Carolina,yes,3,no,yes
+488,5,4,No,Yes,4,Texas,yes,4,no,yes
+489,5,5,No,Yes,5,Massachusetts,yes,4,yes,yes
+490,4,5,No,Yes,4,Illinois,yes,3,no,yes
+491,4,3,Yes,Yes,4,Utah,yes,3,yes,yes
+492,3,3,Yes,Yes,4,Idaho,yes,4,no,no
+493,4,3,Yes,Yes,5,New Jersey,yes,4,no,yes
+494,5,4,Yes,Yes,4,New York,no,3,yes,yes
+495,5,4,No,No,5,Georgia,yes,3,no,yes
+496,5,4,No,Yes,4,Texas,yes,4,yes,yes
+497,5,2,No,No,5,California,yes,4,no,yes
+498,4,3,No,No,5,Texas,no,4,no,yes
+499,4,4,Yes,Yes,3,Oregon,yes,4,yes,yes
+500,3,5,Yes,Yes,4,Oklahoma,yes,3,yes,no
+501,4,4,Yes,Yes,4,New York,yes,3,no,yes
+502,5,4,No,Yes,5,Missouri,yes,4,no,yes
+503,4,4,Yes,Yes,5,Illinois,yes,3,no,yes
+504,4,3,Yes,No,1,Texas,yes,4,no,yes
+505,5,5,No,Yes,5,Illinois,yes,4,no,yes
+506,4,3,Yes,Yes,5,California,yes,3,yes,yes
+507,5,5,No,No,5,Texas,yes,3,no,yes
+508,3,2,No,No,2,Nevada,yes,4,yes,yes
+509,5,4,No,Yes,5,Indiana,yes,4,no,yes
+510,4,3,Yes,No,3,California,yes,4,no,yes
+511,3,3,Yes,No,5,Maine,yes,4,yes,yes
+512,4,4,Yes,Yes,5,California,no,3,no,yes
+513,3,2,No,Yes,4,California,yes,4,no,yes
+514,4,3,Yes,No,3,New Jersey,yes,4,yes,no
+515,5,2,Yes,No,5,Texas,yes,3,yes,no
+516,4,4,Yes,Yes,5,California,no,3,no,yes
+517,4,4,NA,Yes,4,Wisconsin,yes,4,no,yes
+518,5,5,Yes,Yes,5,Maryland,yes,4,no,yes
+519,4,3,Yes,Yes,5,Texas,yes,4,no,yes
+520,5,3,Yes,No,3,Kansas,yes,3,no,yes
+521,4,2,Yes,Yes,5,Wisconsin,yes,4,no,yes
+522,5,4,No,Yes,4,Florida,yes,3,no,yes
+523,4,4,Yes,Yes,5,Virginia,yes,4,no,yes
+524,5,4,No,No,1,Massachusetts,yes,4,yes,yes
+525,5,5,No,No,5,Oklahoma,yes,4,no,yes
+526,4,3,No,Yes,4,Oregon,yes,4,no,yes
+527,5,3,Yes,No,5,Wisconsin,yes,4,no,yes
+528,4,2,No,No,5,Connecticut,yes,4,no,yes
+529,4,3,Yes,No,5,Florida,yes,4,no,yes
+530,4,3,Yes,No,1,Pennsylvania,yes,4,no,yes
+531,NA,2,No,No,1,Georgia,yes,4,no,yes
+532,5,5,No,Yes,4,Connecticut,yes,3,no,yes
+533,5,2,Yes,No,2,California,yes,3,no,yes
+534,5,5,Yes,Yes,5,New Jersey,yes,2,yes,yes
+535,5,3,No,Yes,4,Texas,yes,4,yes,yes
+536,5,5,Yes,Yes,5,California,yes,4,yes,yes
+537,4,3,No,Yes,4,California,yes,4,yes,yes
+538,4,3,No,Yes,4,Florida,yes,3,no,yes
+539,4,4,No,No,NA,Minnesota,yes,4,no,yes
+540,5,4,No,Yes,5,Texas,yes,4,yes,yes
+541,4,4,Yes,No,5,Massachusetts,yes,4,no,yes
+542,4,3,Yes,Yes,5,Oregon,yes,3,no,yes
+543,5,4,Yes,No,5,Alabama,yes,4,yes,yes
+544,5,4,No,No,1,Minnesota,yes,4,yes,yes
+545,4,3,No,Yes,5,Texas,yes,4,no,yes
+546,5,3,No,Yes,5,Georgia,yes,4,no,yes
+547,3,3,No,Yes,4,California,yes,4,no,yes
+548,4,3,Yes,Yes,5,New Hampshire,yes,4,no,yes
+549,5,2,No,No,1,New York,yes,4,no,yes
+550,4,3,Yes,No,3,California,yes,4,yes,no
+551,5,3,No,No,5,California,yes,4,no,yes
+552,4,4,Yes,No,NA,Illinois,yes,3,no,yes
+553,4,4,Yes,Yes,5,California,yes,4,no,yes
+554,4,3,No,No,5,California,yes,4,no,yes
+555,4,3,No,NA,NA,Texas,yes,4,no,yes
+556,3,3,Yes,Yes,4,California,yes,4,no,yes
+557,5,4,No,No,5,Florida,yes,4,no,yes
+558,5,4,No,No,5,North Carolina,yes,3,yes,yes
+559,4,4,Yes,Yes,5,New York,yes,4,no,yes
+560,4,4,Yes,Yes,4,Iowa,yes,3,yes,yes
+561,4,3,Yes,No,3,Pennsylvania,yes,4,no,yes
+562,4,3,Yes,No,5,Texas,yes,4,no,yes
+563,5,4,No,Yes,5,Georgia,yes,3,no,yes
+564,5,4,No,Yes,5,California,yes,3,no,yes
+565,4,3,No,No,5,Connecticut,no,3,no,yes
+566,4,3,Yes,Yes,5,California,yes,3,yes,yes
+567,4,4,No,Yes,3,Colorado,yes,3,yes,NA
+568,4,4,No,Yes,5,Texas,yes,4,no,yes
+569,3,3,No,No,1,California,yes,3,yes,yes
+570,5,5,Yes,No,5,Ohio,yes,4,no,yes
+571,4,3,No,Yes,4,Illinois,yes,4,no,yes
+572,5,2,No,No,5,South Carolina,yes,3,no,no
+573,5,5,No,No,4,California,yes,3,yes,no
+574,4,3,No,No,3,Colorado,no,3,no,yes
+575,5,3,No,Yes,4,Minnesota,yes,3,no,yes
+576,5,5,Yes,Yes,5,Nevada,yes,4,no,yes
+577,5,2,No,Yes,5,Kansas,yes,3,yes,yes
+578,4,2,No,Yes,4,South Carolina,yes,4,yes,yes
+579,4,4,No,No,4,Florida,yes,4,no,yes
+580,5,4,Yes,No,5,Texas,yes,4,no,yes
+581,4,3,Yes,Yes,5,Nevada,yes,4,yes,yes
+582,5,5,Yes,Yes,4,New York,yes,4,no,yes
+583,5,4,No,No,4,Arizona,yes,4,no,yes
+584,3,2,Yes,Yes,5,Arizona,yes,3,yes,yes
+585,5,4,Yes,Yes,5,Michigan,yes,4,no,yes
+586,NA,2,No,Yes,5,Utah,yes,3,no,yes
+587,4,4,Yes,Yes,5,Texas,yes,3,no,yes
+588,4,4,No,Yes,5,Nevada,yes,3,no,yes
+589,4,3,Yes,No,4,California,yes,4,yes,yes
+590,4,3,Yes,Yes,5,Florida,yes,4,no,yes
+591,4,2,Yes,No,4,Mississippi,no,2,no,yes
+592,2,5,No,Yes,5,Ohio,no,3,yes,NA
+593,5,4,No,Yes,5,Illinois,yes,4,no,yes
+594,5,3,No,Yes,5,Illinois,yes,4,no,yes
+595,4,2,No,No,4,Illinois,yes,4,no,yes
+596,4,2,Yes,No,3,California,yes,4,no,yes
+597,5,2,Yes,No,NA,New York,yes,4,no,yes
+598,4,4,Yes,No,4,Florida,yes,4,yes,yes
+599,4,4,No,Yes,5,North Carolina,yes,3,no,yes
+600,5,3,Yes,No,5,California,yes,4,no,yes
+601,4,2,Yes,Yes,4,Colorado,yes,4,no,yes
+602,4,2,Yes,Yes,5,South Carolina,yes,3,no,yes
+603,5,4,No,Yes,5,Illinois,yes,4,no,yes
+604,4,4,Yes,Yes,4,Massachusetts,yes,3,no,yes
+605,4,4,Yes,No,4,Indiana,yes,4,no,yes
+606,4,3,Yes,Yes,3,Vermont,yes,4,yes,yes
+607,4,3,No,Yes,3,Pennsylvania,yes,4,no,yes
+608,4,4,No,No,5,Pennsylvania,yes,4,no,yes
+609,4,4,No,Yes,3,South Carolina,no,4,no,yes
+610,5,4,Yes,Yes,4,Texas,yes,3,no,no
+611,5,5,No,Yes,5,Texas,yes,4,no,yes
+612,4,3,Yes,Yes,4,Illinois,yes,4,no,yes
+613,4,4,Yes,Yes,3,Virginia,no,4,yes,yes
+614,5,5,Yes,Yes,5,Texas,no,3,no,yes
+615,2,2,Yes,Yes,3,Florida,yes,2,yes,yes
+616,4,NA,Yes,Yes,4,Texas,yes,3,yes,no
+617,4,4,Yes,Yes,5,Georgia,yes,4,no,yes
+618,5,4,No,No,4,Florida,yes,4,no,yes
+619,4,2,Yes,No,1,Washington,yes,4,no,yes
+620,4,4,No,Yes,5,Colorado,yes,4,no,yes
+621,4,3,Yes,No,NA,Missouri,yes,4,no,yes
+622,4,4,No,Yes,5,Maryland,yes,4,no,yes
+623,4,4,Yes,Yes,4,Tennessee,yes,3,yes,no
+624,5,2,Yes,Yes,4,Georgia,yes,4,yes,no
+625,5,3,No,Yes,5,California,no,4,no,yes
+626,4,4,Yes,No,4,Texas,yes,4,yes,yes
+627,4,3,Yes,Yes,4,Arizona,yes,3,no,yes
+628,3,3,Yes,No,1,Tennessee,no,4,no,yes
+629,5,4,Yes,No,4,Virginia,yes,4,no,yes
+630,4,3,Yes,No,5,Virginia,yes,4,no,yes
+631,4,4,No,Yes,5,New York,yes,4,yes,yes
+632,4,2,No,Yes,4,Florida,yes,4,no,yes
+633,5,4,Yes,Yes,4,California,yes,3,yes,yes
+634,5,5,No,Yes,5,Georgia,yes,3,yes,yes
+635,4,4,No,No,4,Massachusetts,no,4,no,no
+636,5,4,No,No,4,Arizona,yes,4,no,NA
+637,5,2,Yes,Yes,5,Virginia,yes,4,no,yes
+638,4,2,Yes,Yes,5,Arkansas,yes,3,no,yes
+639,4,3,Yes,Yes,4,Maryland,no,3,yes,yes
+640,4,3,No,No,3,Illinois,yes,4,no,yes
+641,5,3,No,No,5,Texas,yes,4,no,yes
+642,5,5,Yes,Yes,5,North Carolina,yes,4,yes,yes
+643,4,3,No,No,5,Arizona,yes,4,no,yes
+644,5,4,No,Yes,5,Texas,yes,3,no,yes
+645,4,4,Yes,No,5,Pennsylvania,yes,3,yes,yes
+646,5,5,No,No,4,Texas,yes,3,no,yes
+647,4,3,Yes,Yes,3,Indiana,yes,4,no,yes
+648,5,4,Yes,No,5,Pennsylvania,no,3,no,yes
+649,4,5,Yes,Yes,5,Virginia,yes,4,no,yes
+650,5,4,No,Yes,5,Arizona,yes,4,no,yes
+651,5,3,Yes,Yes,4,Michigan,yes,3,no,no
+652,4,3,No,No,5,Connecticut,yes,3,yes,yes
+653,4,2,Yes,Yes,4,Illinois,yes,4,no,yes
+654,5,4,No,Yes,5,Indiana,yes,3,no,yes
+655,5,4,No,Yes,5,Nevada,yes,4,yes,yes
+656,2,2,Yes,No,1,New York,yes,4,yes,no
+657,4,4,Yes,NA,NA,Missouri,yes,4,no,yes
+658,3,4,No,Yes,5,Alaska,no,3,no,yes
+659,4,5,Yes,Yes,5,Indiana,yes,3,no,yes
+660,2,2,Yes,Yes,3,Connecticut,yes,4,no,yes
+661,5,5,No,Yes,5,Pennsylvania,yes,4,no,yes
+662,4,3,No,Yes,5,California,yes,3,yes,yes
+663,5,4,Yes,Yes,5,California,yes,3,no,yes
+664,4,4,No,Yes,5,Georgia,yes,3,no,yes
+665,4,2,Yes,Yes,3,New York,no,3,yes,no
+666,5,5,Yes,Yes,5,West Virginia,yes,4,yes,yes
+667,5,4,Yes,Yes,4,California,no,3,no,yes
+668,5,3,No,No,3,Texas,no,3,no,yes
+669,5,2,Yes,Yes,4,Florida,yes,4,yes,yes
+670,5,4,No,Yes,4,Missouri,yes,3,no,yes
+671,4,4,Yes,Yes,4,California,no,3,yes,no
+672,3,2,Yes,Yes,5,California,yes,4,no,yes
+673,5,2,No,No,5,Arizona,yes,3,no,yes
+674,4,3,Yes,Yes,4,Pennsylvania,yes,4,no,yes
+675,5,4,No,No,5,Georgia,no,3,no,yes
+676,5,5,No,Yes,5,Florida,yes,4,no,yes
+677,4,3,No,Yes,4,Utah,yes,3,no,yes
+678,4,4,No,No,5,Virginia,no,3,no,yes
+679,4,3,No,Yes,4,Oregon,yes,3,no,yes
+680,4,4,Yes,No,5,New Jersey,yes,3,yes,no
+681,4,3,Yes,No,3,Oregon,yes,4,yes,yes
+682,5,4,No,No,3,Hawaii,yes,3,yes,yes
+683,3,2,No,No,4,Pennsylvania,yes,3,no,yes
+684,4,2,Yes,Yes,3,Kansas,yes,3,yes,no
+685,3,3,Yes,Yes,4,Minnesota,yes,4,no,yes
+686,4,3,Yes,No,NA,Ohio,yes,4,yes,yes
+687,4,3,Yes,Yes,5,Florida,yes,3,no,yes
+688,5,5,Yes,No,1,Idaho,yes,3,no,yes
+689,4,5,Yes,Yes,3,Missouri,yes,3,no,yes
+690,4,3,Yes,Yes,4,Texas,no,3,yes,no
+691,4,3,No,Yes,4,Florida,yes,4,no,yes
+692,5,2,No,No,3,California,yes,3,no,yes
+693,5,3,No,Yes,5,Missouri,yes,4,no,yes
+694,4,4,No,Yes,5,Montana,yes,4,no,yes
+695,3,3,Yes,Yes,5,Arizona,yes,4,no,yes
+696,4,3,Yes,No,5,New Jersey,yes,4,yes,yes
+697,5,2,No,No,1,Maryland,yes,4,no,yes
+698,5,3,Yes,Yes,4,Virginia,no,3,no,yes
+699,4,4,No,Yes,5,Minnesota,yes,3,yes,yes
+700,4,4,Yes,Yes,4,Wisconsin,yes,4,no,yes
+701,4,5,No,Yes,4,Idaho,yes,4,no,yes
+702,5,2,Yes,Yes,5,Arizona,yes,3,yes,yes
+703,4,3,No,Yes,5,Ohio,yes,3,no,yes
+704,4,4,No,Yes,5,Nevada,no,4,yes,yes
+705,4,3,Yes,Yes,3,Nevada,yes,3,yes,no
+706,3,3,Yes,Yes,3,California,no,3,yes,yes
+707,4,4,Yes,No,4,New York,no,3,no,yes
+708,4,3,Yes,No,5,North Carolina,yes,3,yes,yes
+709,5,2,Yes,Yes,4,Florida,no,2,no,yes
+710,4,3,Yes,Yes,5,Alabama,yes,4,yes,no
+711,4,4,No,No,1,Texas,yes,4,yes,no
+712,2,2,Yes,Yes,5,Nevada,yes,4,yes,yes
+713,4,2,No,Yes,3,California,yes,4,no,yes
+714,4,3,No,Yes,5,Oregon,no,3,no,yes
+715,5,4,No,Yes,4,California,yes,2,yes,yes
+716,4,5,No,No,5,Oklahoma,yes,3,no,yes
+717,5,4,Yes,Yes,5,Texas,yes,4,no,yes
+718,4,3,Yes,Yes,4,Virginia,yes,3,no,yes
+719,5,4,Yes,No,1,Colorado,yes,3,no,yes
+720,4,3,No,Yes,1,Texas,yes,4,no,yes
+721,4,3,No,Yes,3,Pennsylvania,yes,4,no,no
+722,4,4,No,Yes,5,Florida,yes,3,yes,no
+723,4,5,No,Yes,4,Michigan,yes,3,yes,yes
+724,4,5,No,Yes,5,Texas,yes,3,no,yes
+725,5,4,Yes,Yes,5,Maryland,no,3,yes,yes
+726,5,5,Yes,Yes,5,Georgia,no,4,no,yes
+727,4,4,No,Yes,5,Florida,yes,3,no,yes
+728,4,4,Yes,No,5,Nebraska,yes,3,yes,NA
+729,5,3,Yes,No,2,Michigan,yes,4,no,yes
+730,4,3,No,Yes,1,New Jersey,no,4,no,yes
+731,5,5,Yes,Yes,5,Wyoming,no,3,no,yes
+732,5,4,Yes,No,4,Virginia,yes,3,no,yes
+733,4,4,Yes,Yes,4,Maine,yes,4,no,yes
+734,4,4,Yes,No,4,Massachusetts,yes,4,no,yes
+735,4,4,No,No,5,Washington,yes,4,no,yes
+736,4,4,No,No,5,Texas,yes,3,no,yes
+737,5,3,No,No,5,New Mexico,yes,3,no,yes
+738,4,4,Yes,Yes,5,Vermont,yes,4,no,yes
+739,5,3,Yes,Yes,5,Iowa,yes,3,no,yes
+740,4,2,No,No,3,Florida,yes,4,no,yes
+741,4,5,Yes,No,4,Georgia,no,3,no,yes
+742,5,4,Yes,Yes,5,Vermont,yes,4,yes,yes
+743,4,4,Yes,No,3,California,yes,3,no,yes
+744,NA,NA,NA,NA,3,Colorado,yes,3,yes,no
+745,4,5,No,Yes,5,Wisconsin,yes,4,no,yes
+746,4,3,Yes,Yes,NA,Pennsylvania,yes,3,no,yes
+747,5,3,Yes,NA,5,North Carolina,yes,4,no,yes
+748,4,3,No,No,5,Montana,yes,4,no,yes
+749,4,2,Yes,No,5,Arizona,yes,4,yes,yes
+750,5,3,Yes,Yes,5,Maryland,yes,4,no,yes
+751,4,2,Yes,No,3,New York,yes,3,yes,no
+752,4,3,No,Yes,5,North Carolina,yes,3,no,yes
+753,5,3,No,No,4,Ohio,no,3,no,yes
+754,5,5,No,No,4,California,yes,4,yes,no
+755,4,4,Yes,Yes,5,Pennsylvania,yes,4,no,yes
+756,5,5,Yes,No,5,North Carolina,yes,3,no,yes
+757,4,3,Yes,Yes,4,Illinois,yes,4,no,yes
+758,5,5,No,Yes,5,Michigan,yes,3,yes,yes
+759,5,3,Yes,Yes,5,New York,yes,4,no,yes
+760,5,3,No,Yes,5,Nebraska,yes,3,no,yes
+761,4,4,No,Yes,5,Michigan,no,4,no,yes
+762,4,4,Yes,Yes,5,New Hampshire,yes,4,no,yes
+763,4,4,No,No,4,New York,yes,3,yes,no
+764,4,4,No,Yes,5,North Carolina,yes,3,yes,yes
+765,4,3,No,Yes,5,Louisiana,yes,4,no,yes
+766,4,3,No,No,1,Texas,yes,4,no,yes
+767,5,3,No,Yes,5,Florida,yes,4,no,yes
+768,5,4,No,No,5,New York,yes,4,no,yes
+769,NA,2,Yes,No,4,Florida,yes,3,yes,yes
+770,5,3,Yes,No,5,New York,yes,4,no,yes
+771,5,4,Yes,Yes,3,Georgia,no,3,no,yes
+772,3,3,Yes,Yes,4,Michigan,yes,4,yes,no
+773,3,3,Yes,No,4,Michigan,yes,3,no,yes
+774,5,4,No,Yes,5,New York,yes,4,no,yes
+775,5,5,No,Yes,4,Illinois,yes,3,no,yes
+776,4,3,No,Yes,4,Pennsylvania,yes,4,no,yes
+777,5,3,Yes,Yes,5,Ohio,yes,4,no,yes
+778,4,4,Yes,Yes,2,New York,yes,3,no,yes
+779,4,4,Yes,Yes,5,New York,no,3,no,yes
+780,4,3,Yes,Yes,5,Missouri,yes,3,no,yes
+781,5,4,Yes,Yes,3,New York,no,3,yes,no
+782,5,3,Yes,Yes,5,South Carolina,yes,3,no,yes
+783,5,4,No,NA,NA,Virginia,yes,4,no,yes
+784,5,4,Yes,Yes,5,Tennessee,yes,4,no,yes
+785,4,3,Yes,Yes,4,Texas,no,3,no,no
+786,4,4,Yes,Yes,3,California,yes,4,no,yes
+787,5,4,Yes,Yes,5,Wisconsin,yes,3,no,yes
+788,4,3,Yes,No,4,Pennsylvania,yes,4,yes,yes
+789,5,3,Yes,NA,5,Wisconsin,yes,4,no,yes
+790,4,4,No,No,1,Oklahoma,yes,4,no,yes
+791,5,4,No,No,5,Texas,yes,4,no,yes
+792,4,3,Yes,No,4,Minnesota,yes,4,no,yes
+793,4,5,Yes,Yes,3,Oregon,yes,3,no,yes
+794,4,4,No,Yes,5,Illinois,yes,4,no,yes
+795,5,5,No,No,5,Wisconsin,yes,4,no,yes
+796,5,3,Yes,No,5,Illinois,no,3,no,yes
+797,4,3,Yes,Yes,3,Vermont,yes,3,yes,yes
+798,5,4,No,No,4,Colorado,yes,4,no,yes
+799,4,4,No,Yes,5,Florida,yes,4,no,yes
+800,3,3,Yes,No,2,Washington,yes,4,yes,yes
+801,5,3,Yes,Yes,1,Indiana,yes,4,no,yes
+802,4,4,No,Yes,5,California,yes,4,no,yes
+803,2,2,No,No,3,Kansas,no,3,yes,yes
+804,4,4,Yes,Yes,5,New York,yes,4,no,no
+805,5,4,Yes,Yes,5,Nevada,yes,3,no,yes
+806,5,5,Yes,Yes,5,New York,yes,3,no,yes
+807,5,5,No,Yes,5,Ohio,yes,3,no,yes
+808,5,4,No,No,4,Illinois,yes,4,no,yes
+809,5,3,No,No,4,Pennsylvania,yes,3,yes,no
+810,5,3,No,No,1,Minnesota,yes,4,no,yes
+811,5,4,Yes,Yes,5,Pennsylvania,yes,4,no,yes
+812,5,5,No,No,5,New York,no,3,no,yes
+813,4,3,No,No,4,Pennsylvania,yes,3,yes,yes
+814,4,4,Yes,Yes,5,New York,yes,4,no,yes
+815,4,3,Yes,Yes,5,Maine,yes,3,no,yes
+816,3,3,Yes,Yes,5,Georgia,yes,4,yes,yes
+817,NA,2,No,Yes,4,Georgia,yes,4,no,yes
+818,4,4,No,No,2,Colorado,yes,4,yes,yes
+819,5,3,No,No,5,Delaware,yes,3,no,yes
+820,5,3,No,No,5,Florida,yes,4,yes,no
+821,5,5,Yes,Yes,5,Illinois,no,4,yes,yes
+822,5,4,Yes,NA,4,North Carolina,yes,3,no,yes
+823,4,4,Yes,No,2,North Carolina,yes,4,yes,no
+824,5,3,Yes,Yes,5,Massachusetts,yes,3,yes,yes
+825,5,4,No,Yes,5,Utah,yes,3,no,yes
+826,4,4,Yes,Yes,3,New Jersey,yes,4,yes,yes
+827,4,4,No,Yes,5,California,no,3,no,yes
+828,4,4,No,No,5,California,yes,4,no,yes
+829,3,3,Yes,Yes,4,New York,yes,4,yes,yes
+830,4,4,No,Yes,5,Indiana,yes,4,yes,yes
+831,5,3,No,No,4,California,yes,4,yes,yes
+832,5,4,Yes,Yes,4,Alabama,no,3,no,yes
+833,5,4,No,No,4,Maryland,yes,4,no,yes
+834,4,2,No,No,1,Montana,yes,3,yes,no
+835,4,3,Yes,No,5,Florida,yes,4,no,yes
+836,5,4,Yes,No,3,Indiana,no,4,yes,yes
+837,5,3,Yes,Yes,5,Florida,yes,4,no,yes
+838,5,3,Yes,No,4,Illinois,no,3,no,yes
+839,5,3,Yes,Yes,5,Louisiana,yes,3,no,yes
+840,4,4,Yes,Yes,4,Ohio,yes,3,no,yes
+841,3,3,Yes,No,3,Washington,no,4,no,yes
+842,3,2,Yes,No,3,Nevada,no,4,yes,yes
+843,4,4,No,No,3,Pennsylvania,yes,3,no,yes
+844,4,4,No,Yes,3,Missouri,yes,4,no,yes
+845,5,3,Yes,Yes,5,New Mexico,yes,3,yes,yes
+846,5,4,Yes,NA,NA,New York,yes,4,yes,no
+847,5,4,No,Yes,5,Minnesota,yes,4,no,yes
+848,4,4,No,Yes,5,Arizona,yes,3,no,yes
+849,4,4,No,No,3,California,yes,4,no,yes
+850,4,3,Yes,No,5,Colorado,yes,4,no,yes
+851,4,2,No,No,2,Illinois,yes,3,yes,yes
+852,5,5,Yes,Yes,5,California,no,4,no,yes
+853,5,2,No,Yes,5,New York,yes,4,no,yes
+854,4,4,Yes,Yes,5,Florida,yes,3,no,yes
+855,4,3,Yes,Yes,5,Florida,yes,3,yes,yes
+856,4,3,Yes,Yes,NA,Oregon,yes,4,no,yes
+857,5,5,No,Yes,5,Louisiana,yes,3,no,yes
+858,4,2,No,Yes,5,Minnesota,yes,4,no,yes
+859,4,4,No,Yes,4,Michigan,yes,4,no,yes
+860,4,3,No,No,1,New York,yes,4,no,yes
+861,5,2,No,No,3,New York,yes,3,yes,yes
+862,4,3,No,Yes,5,Massachusetts,yes,4,no,yes
+863,5,3,Yes,Yes,5,Arizona,yes,3,no,yes
+864,5,4,Yes,Yes,3,Missouri,yes,4,yes,no
+865,4,3,Yes,Yes,4,Pennsylvania,yes,4,no,yes
+866,5,5,No,Yes,1,Louisiana,no,4,no,yes
+867,5,4,Yes,No,4,Florida,yes,4,no,yes
+868,5,3,No,NA,NA,Arizona,yes,3,no,yes
+869,4,4,No,No,4,Texas,no,3,yes,yes
+870,3,3,Yes,Yes,5,Indiana,yes,3,yes,yes
+871,5,5,No,No,5,California,yes,4,no,yes
+872,4,3,Yes,Yes,3,New Mexico,yes,4,no,yes
+873,4,4,Yes,Yes,5,Massachusetts,yes,3,yes,yes
+874,5,4,Yes,Yes,5,Florida,yes,3,yes,yes
+875,4,4,Yes,Yes,4,Minnesota,yes,4,yes,no
+876,4,4,No,NA,NA,Arkansas,yes,4,NA,yes
+877,4,4,Yes,Yes,4,Illinois,yes,3,no,yes
+878,4,3,Yes,Yes,4,Pennsylvania,yes,4,no,yes
+879,3,2,No,Yes,4,Ohio,yes,4,no,yes
+880,4,4,Yes,Yes,5,South Carolina,yes,3,no,yes
+881,5,2,No,Yes,5,New York,no,3,yes,yes
+882,4,3,Yes,Yes,4,California,no,3,no,yes
+883,3,4,Yes,No,3,New York,yes,4,yes,no
+884,5,3,Yes,Yes,5,Texas,yes,4,no,yes
+885,4,4,Yes,Yes,5,California,yes,4,no,yes
+886,3,2,Yes,No,1,Wisconsin,no,4,yes,yes
+887,5,4,NA,Yes,3,Virginia,yes,3,no,yes
+888,4,3,No,No,3,Ohio,yes,4,yes,yes
+889,4,4,No,Yes,5,New York,yes,4,no,yes
+890,4,3,No,Yes,4,North Carolina,yes,3,no,yes
+891,4,2,Yes,Yes,5,California,yes,4,yes,yes
+892,4,5,No,Yes,4,Texas,yes,4,no,yes
+893,4,4,No,No,4,Georgia,yes,3,no,yes
+894,4,4,No,No,3,Nebraska,yes,4,no,yes
+895,4,4,Yes,Yes,5,Virginia,no,4,yes,yes
+896,5,3,No,Yes,5,Pennsylvania,yes,4,no,yes
+897,3,4,Yes,Yes,5,Maryland,yes,3,no,yes
+898,4,4,No,Yes,5,Massachusetts,yes,3,no,yes
+899,5,5,No,Yes,5,Michigan,yes,4,no,yes
+900,4,4,Yes,Yes,4,Utah,yes,3,no,no
+901,4,3,No,Yes,4,Texas,yes,4,no,yes
+902,5,4,Yes,Yes,5,North Carolina,no,4,no,yes
+903,5,2,No,No,1,California,yes,4,no,yes
+904,4,4,Yes,Yes,5,Texas,no,2,yes,yes
+905,3,3,Yes,Yes,4,Oregon,yes,3,no,yes
+906,5,5,Yes,Yes,5,Pennsylvania,no,3,no,yes
+907,4,3,Yes,Yes,3,Maryland,yes,4,no,yes
+908,4,3,Yes,No,3,Montana,yes,4,no,yes
+909,5,4,Yes,Yes,4,Michigan,yes,3,yes,yes
+910,4,4,Yes,No,3,South Carolina,yes,4,yes,no
+911,4,3,Yes,Yes,5,Iowa,yes,4,no,yes
+912,5,4,Yes,No,4,Virginia,no,4,no,yes
+913,5,5,Yes,Yes,4,North Carolina,yes,4,no,yes
+914,5,4,Yes,Yes,5,Indiana,yes,3,no,yes
+915,4,4,Yes,Yes,4,Georgia,yes,3,no,yes
+916,4,4,No,Yes,4,Washington,yes,3,no,yes
+917,5,3,Yes,Yes,5,Georgia,no,3,no,yes
+918,5,2,Yes,No,5,Florida,yes,4,no,yes
+919,4,3,No,No,3,Pennsylvania,yes,3,no,yes
+920,4,3,Yes,NA,NA,Utah,yes,4,no,yes
+921,4,4,No,Yes,4,Mississippi,yes,3,yes,yes
+922,4,5,No,Yes,4,Pennsylvania,yes,3,yes,no
+923,4,4,Yes,Yes,5,Georgia,yes,3,no,yes
+924,4,4,No,Yes,5,Illinois,yes,3,no,yes
+925,4,4,No,Yes,5,Georgia,yes,3,no,yes
+926,4,3,No,Yes,4,Maryland,yes,4,no,yes
+927,5,2,Yes,No,5,Arkansas,no,3,yes,yes
+928,5,4,No,No,5,Ohio,yes,3,no,yes
+929,4,4,Yes,Yes,5,Illinois,yes,4,no,yes
+930,4,4,Yes,Yes,5,Florida,yes,3,no,yes
+931,4,4,No,Yes,5,Texas,yes,4,no,yes
+932,4,3,No,No,5,Pennsylvania,yes,3,no,yes
+933,5,4,Yes,Yes,5,Tennessee,yes,4,yes,yes
+934,4,4,No,Yes,4,New Hampshire,yes,3,no,yes
+935,5,5,Yes,Yes,3,Indiana,no,3,no,yes
+936,NA,NA,No,NA,NA,California,yes,3,yes,yes
+937,4,3,No,Yes,5,Kentucky,yes,4,yes,yes
+938,3,3,Yes,No,3,California,no,3,no,no
+939,4,4,Yes,No,3,Oregon,yes,3,no,yes
+940,5,4,No,Yes,5,Pennsylvania,yes,3,yes,yes
+941,NA,3,No,Yes,5,California,yes,4,no,yes
+942,5,5,Yes,Yes,5,New York,yes,4,no,NA
+943,4,4,Yes,No,5,Texas,no,4,no,yes
+944,5,4,No,NA,NA,Arizona,yes,4,no,yes
+945,4,5,Yes,Yes,5,New Jersey,yes,3,yes,yes
+946,3,3,Yes,Yes,2,Louisiana,yes,2,yes,yes
+947,5,3,No,No,5,Texas,yes,3,no,yes
+948,4,3,Yes,No,5,Georgia,yes,4,no,yes
+949,4,2,No,Yes,5,Tennessee,yes,4,yes,yes
+950,5,3,No,Yes,4,Minnesota,yes,2,yes,yes
+951,4,4,Yes,Yes,3,Colorado,yes,3,yes,no
+952,5,2,Yes,Yes,5,Montana,yes,3,no,yes
+953,4,4,No,Yes,5,Connecticut,yes,4,no,yes
+954,4,2,Yes,Yes,5,Florida,yes,4,no,yes
+955,4,3,No,No,5,Oregon,yes,4,no,yes
+956,4,4,Yes,Yes,4,Arizona,yes,4,no,yes
+957,3,2,Yes,No,4,Washington,yes,4,no,yes
+958,5,5,No,Yes,3,Colorado,yes,4,no,yes
+959,4,4,Yes,Yes,4,Florida,yes,4,yes,yes
+960,5,5,Yes,Yes,5,Florida,yes,3,no,yes
+961,5,2,No,No,5,California,no,3,no,yes
+962,5,2,Yes,Yes,3,Pennsylvania,yes,3,yes,NA
+963,4,3,Yes,No,5,Delaware,yes,4,no,yes
+964,5,4,No,Yes,5,Missouri,yes,4,yes,yes
+965,4,3,No,Yes,4,Washington,yes,4,yes,yes
+966,5,3,NA,NA,NA,Alabama,yes,4,no,yes
+967,5,2,Yes,Yes,5,Rhode Island,yes,3,yes,yes
+968,5,4,No,Yes,4,New York,yes,4,yes,yes
+969,5,3,Yes,No,4,California,yes,3,no,yes
+970,4,2,Yes,Yes,3,Florida,yes,4,yes,no
+971,5,3,No,Yes,4,Missouri,yes,4,no,yes
+972,5,3,Yes,Yes,5,Ohio,yes,3,no,yes
+973,5,4,No,NA,5,New Jersey,yes,4,no,yes
+974,4,4,Yes,Yes,5,Georgia,yes,3,yes,yes
+975,5,2,No,Yes,5,Illinois,yes,3,no,yes
+976,4,4,Yes,Yes,4,Florida,yes,4,no,yes
+977,5,2,No,Yes,5,Indiana,yes,4,no,yes
+978,5,3,No,Yes,5,New Jersey,yes,3,no,yes
+979,4,3,Yes,Yes,4,California,yes,3,yes,no
+980,4,4,Yes,Yes,5,North Carolina,yes,4,no,yes
+981,4,3,Yes,Yes,5,Montana,yes,4,no,yes
+982,5,2,No,Yes,5,New York,no,4,no,no
+983,5,4,Yes,Yes,5,Florida,yes,3,yes,no
+984,5,3,Yes,No,4,Texas,yes,4,no,yes
+985,3,4,No,Yes,5,Washington,no,3,yes,yes
+986,3,4,No,Yes,3,California,no,3,no,yes
+987,4,3,Yes,Yes,5,Idaho,yes,3,no,yes
+988,3,4,Yes,Yes,5,Georgia,yes,3,no,yes
+989,4,3,No,Yes,5,Washington,yes,3,no,yes
+990,4,4,Yes,Yes,5,Florida,no,3,no,yes
+991,3,3,Yes,No,1,Pennsylvania,yes,4,no,yes
+992,5,3,No,No,5,West Virginia,yes,4,no,yes
+993,4,4,Yes,Yes,3,Massachusetts,yes,4,no,yes
+994,4,3,Yes,Yes,4,California,yes,3,yes,yes
+995,4,2,Yes,Yes,4,California,yes,4,no,yes
+996,5,4,Yes,Yes,5,California,no,4,no,yes
+997,4,3,No,Yes,3,Utah,yes,3,yes,yes
+998,5,3,Yes,No,3,New Mexico,no,4,no,yes
+999,4,3,No,Yes,5,New Jersey,yes,4,no,yes
+1000,4,3,Yes,Yes,5,Texas,yes,3,yes,yes
+1001,4,4,Yes,Yes,4,Pennsylvania,yes,3,no,yes
+1002,3,3,Yes,Yes,4,New York,yes,3,yes,no
+1003,3,3,Yes,Yes,4,Arizona,yes,4,yes,yes
+1004,4,NA,No,Yes,5,Colorado,no,3,yes,yes
+1005,3,2,Yes,Yes,5,Florida,yes,3,yes,yes
+1006,5,3,No,No,5,Tennessee,yes,3,no,yes
+1007,4,3,Yes,Yes,5,Kentucky,yes,3,no,NA
+1008,4,4,Yes,Yes,3,Connecticut,yes,4,no,no
+1009,4,4,No,No,5,Kansas,yes,3,no,yes
+1010,5,4,Yes,No,3,New York,yes,4,no,yes
+1011,4,2,Yes,Yes,5,Utah,yes,3,no,no
+1012,4,3,Yes,Yes,4,Arkansas,yes,3,no,yes
+1013,4,4,Yes,Yes,1,Virginia,yes,3,no,yes
+1014,4,3,Yes,No,4,Texas,no,4,yes,yes
+1015,5,5,No,Yes,5,Pennsylvania,yes,3,no,NA
+1016,5,3,Yes,Yes,5,Florida,no,2,NA,yes
+1017,4,2,No,Yes,5,Virginia,yes,3,no,yes
+1018,5,4,Yes,Yes,4,New York,yes,4,yes,yes
+1019,4,4,No,Yes,5,Florida,yes,4,no,yes
+1020,4,4,No,Yes,4,North Carolina,yes,4,no,yes
+1021,4,5,No,Yes,5,Texas,yes,4,no,yes
+1022,4,2,Yes,Yes,4,California,yes,3,yes,no
+1023,4,2,No,Yes,4,Pennsylvania,yes,3,yes,yes
+1024,5,2,Yes,No,4,Wisconsin,yes,4,yes,no
+1025,4,4,Yes,Yes,5,Illinois,yes,4,no,yes
+1026,3,3,No,No,1,Arizona,no,3,no,yes
+1027,4,3,Yes,Yes,5,Michigan,yes,3,no,yes
+1028,4,2,No,Yes,5,Missouri,yes,3,yes,yes
+1029,4,3,Yes,No,3,New York,yes,3,yes,no
+1030,5,2,Yes,No,5,Massachusetts,yes,3,yes,yes
+1031,5,5,No,No,5,California,yes,4,yes,yes
+1032,4,2,Yes,No,3,Michigan,yes,4,yes,no
+1033,4,3,No,Yes,4,Florida,yes,4,yes,no
+1034,4,4,No,No,3,Washington,yes,4,no,yes
+1035,4,3,Yes,No,5,Arizona,yes,3,yes,yes
+1036,4,2,No,No,5,Texas,yes,3,yes,yes
+1037,5,4,No,Yes,5,Washington,yes,4,no,yes
+1038,4,3,No,Yes,5,Indiana,yes,4,no,yes
+1039,4,4,No,No,5,Oregon,yes,4,no,yes
+1040,4,4,No,Yes,4,Michigan,yes,3,no,yes
+1041,5,5,No,Yes,5,Indiana,yes,4,no,yes
+1042,3,2,Yes,Yes,4,Texas,yes,2,yes,no
+1043,4,4,Yes,Yes,5,Virginia,yes,4,yes,yes
+1044,4,4,Yes,Yes,3,Utah,yes,3,yes,no
+1045,4,3,Yes,No,3,Hawaii,no,2,yes,yes
+1046,4,3,Yes,Yes,4,Wisconsin,yes,3,yes,yes
+1047,5,3,No,No,5,California,yes,3,no,yes
+1048,4,2,No,No,5,Michigan,yes,4,yes,yes
+1049,5,2,Yes,Yes,5,California,no,3,yes,yes
+1050,4,5,No,Yes,5,New Mexico,yes,4,no,yes
+1051,5,3,No,No,5,Virginia,yes,4,no,yes
+1052,4,3,Yes,Yes,5,Alabama,yes,3,no,yes
+1053,4,3,Yes,Yes,4,Pennsylvania,yes,2,no,no
+1054,4,4,No,Yes,5,Ohio,yes,3,no,yes
+1055,3,3,Yes,No,4,West Virginia,yes,4,no,yes
+1056,4,2,Yes,No,3,Missouri,yes,2,yes,no
+1057,4,3,Yes,No,4,Minnesota,yes,4,no,yes
+1058,5,4,Yes,Yes,4,Illinois,yes,3,no,yes
+1059,5,2,No,Yes,4,Florida,yes,3,no,yes
+1060,5,4,Yes,No,5,Georgia,yes,4,yes,yes
+1061,4,2,Yes,No,2,New York,yes,3,yes,no
+1062,4,4,No,No,5,Texas,yes,4,no,yes
+1063,5,2,Yes,No,4,Connecticut,no,4,no,yes
+1064,4,3,Yes,Yes,3,Massachusetts,no,4,no,yes
+1065,4,3,Yes,No,5,Oregon,yes,4,no,yes
+1066,4,3,No,No,4,California,yes,3,no,yes
+1067,4,3,Yes,Yes,5,Maryland,yes,3,no,no
+1068,4,3,Yes,No,4,New York,yes,3,no,yes
+1069,4,4,Yes,Yes,5,New Mexico,no,3,no,yes
+1070,5,3,No,Yes,5,Washington,yes,4,no,yes
+1071,4,4,No,Yes,4,Minnesota,yes,3,no,yes
+1072,4,4,No,Yes,5,Georgia,yes,4,yes,yes
+1073,5,2,No,Yes,3,New Jersey,yes,4,no,yes
+1074,5,4,Yes,No,3,Nevada,no,3,yes,yes
+1075,2,3,No,NA,NA,New Jersey,yes,3,no,yes
+1076,5,3,Yes,No,5,Colorado,yes,4,no,yes
+1077,4,3,Yes,Yes,4,Nevada,yes,4,no,yes
+1078,4,3,No,No,5,Missouri,yes,4,no,yes
+1079,4,4,Yes,Yes,5,Nebraska,yes,3,no,yes
+1080,4,4,Yes,No,4,Washington,yes,3,no,yes
+1081,5,4,No,NA,NA,Virginia,yes,3,no,yes
+1082,5,3,No,Yes,5,New York,no,3,yes,yes
+1083,5,2,No,No,4,California,yes,4,no,yes
+1084,5,2,No,Yes,5,Florida,no,3,yes,yes
+1085,5,4,Yes,Yes,5,Maryland,no,3,no,yes
+1086,4,3,Yes,Yes,4,Florida,yes,3,yes,yes
+1087,4,4,Yes,Yes,5,Virginia,yes,3,yes,yes
+1088,3,4,No,Yes,5,Tennessee,yes,4,yes,yes
+1089,4,2,No,No,5,Illinois,yes,4,yes,yes
+1090,4,3,No,Yes,5,Tennessee,yes,4,yes,yes
+1091,5,2,Yes,Yes,4,Maryland,yes,4,no,yes
+1092,4,4,Yes,No,5,Pennsylvania,yes,4,no,yes
+1093,4,4,Yes,Yes,5,Pennsylvania,yes,4,no,yes
+1094,5,5,Yes,Yes,5,Tennessee,yes,3,no,yes
+1095,4,3,Yes,Yes,4,New York,yes,4,no,yes
+1096,5,2,No,Yes,5,New Jersey,yes,4,no,yes
+1097,4,4,No,Yes,5,Pennsylvania,yes,3,yes,yes
+1098,5,2,No,No,5,California,yes,4,no,yes
+1099,4,3,Yes,No,3,Indiana,yes,3,yes,yes
+1100,4,4,Yes,Yes,4,Massachusetts,yes,3,no,yes
+1101,NA,2,NA,No,5,Utah,yes,3,no,yes
+1102,5,4,Yes,Yes,NA,Washington,yes,4,no,yes
+1103,4,3,Yes,No,5,New Jersey,yes,4,no,yes
+1104,5,5,Yes,No,1,California,yes,4,yes,no
+1105,5,4,No,Yes,5,Washington,yes,3,no,yes
+1106,5,3,No,Yes,5,Michigan,yes,3,no,yes
+1107,3,3,Yes,Yes,4,Ohio,yes,3,yes,yes
+1108,2,4,Yes,Yes,5,Michigan,yes,3,yes,yes
+1109,5,3,No,No,3,Mississippi,yes,3,yes,yes
+1110,4,4,No,Yes,4,West Virginia,yes,4,no,yes
+1111,4,3,No,No,3,New York,yes,3,yes,no
+1112,4,5,No,No,4,Florida,no,4,no,yes
+1113,4,3,Yes,Yes,NA,New York,no,3,no,yes
+1114,5,5,Yes,Yes,4,Illinois,yes,4,no,yes
+1115,5,4,No,Yes,5,California,yes,4,no,yes
+1116,3,3,No,Yes,4,Alabama,yes,4,yes,yes
+1117,5,5,Yes,Yes,5,Washington,yes,3,no,yes
+1118,4,3,Yes,No,4,Mississippi,yes,4,yes,yes
+1119,4,3,Yes,No,4,Georgia,yes,4,no,yes
+1120,5,5,No,No,4,Ohio,yes,4,yes,yes
+1121,4,2,No,Yes,5,Kentucky,yes,2,yes,yes
+1122,4,4,No,Yes,3,California,yes,3,no,yes
+1123,5,5,Yes,Yes,5,Florida,no,3,no,yes
+1124,5,4,Yes,Yes,4,New York,yes,3,no,yes
+1125,3,3,Yes,No,4,Texas,no,3,no,yes
+1126,5,5,No,Yes,5,California,yes,4,no,yes
+1127,5,4,No,Yes,5,Illinois,yes,3,no,yes
+1128,5,2,Yes,Yes,5,Florida,yes,3,no,yes
+1129,4,4,Yes,Yes,4,Texas,yes,4,no,yes
+1130,5,4,No,Yes,5,Indiana,no,3,no,yes
+1131,4,4,No,Yes,3,Arizona,yes,3,yes,no
+1132,5,4,No,No,4,California,yes,3,no,yes
+1133,3,4,No,No,4,Kansas,yes,4,no,yes
+1134,5,3,No,No,5,Alabama,yes,4,no,yes
+1135,4,2,Yes,Yes,5,Utah,yes,3,no,yes
+1136,4,2,No,Yes,5,New Hampshire,yes,4,no,yes
+1137,3,3,No,No,4,Missouri,yes,4,yes,yes
+1138,5,3,Yes,No,5,Washington,no,3,no,yes
+1139,5,3,Yes,Yes,5,Arizona,yes,4,no,yes
+1140,4,4,No,Yes,5,Ohio,yes,4,no,yes
+1141,4,4,Yes,No,5,Kentucky,yes,4,yes,yes
+1142,5,4,Yes,Yes,5,Ohio,yes,3,no,yes
+1143,5,4,No,No,3,Florida,yes,4,no,no
+1144,5,4,No,Yes,5,Michigan,yes,3,no,yes
+1145,4,4,Yes,Yes,3,Pennsylvania,yes,3,yes,no
+1146,4,3,Yes,Yes,5,Colorado,no,3,yes,yes
+1147,4,3,Yes,Yes,4,California,no,3,no,no
+1148,4,4,Yes,Yes,3,Delaware,yes,4,no,yes
+1149,4,3,No,Yes,4,Michigan,yes,4,no,yes
+1150,4,3,No,Yes,5,Kansas,yes,4,no,yes
+1151,5,2,No,Yes,5,Georgia,yes,4,yes,yes
+1152,5,2,Yes,Yes,5,Arkansas,yes,3,no,yes
+1153,5,4,Yes,Yes,4,California,yes,3,yes,no
+1154,4,3,No,Yes,5,Virginia,yes,3,yes,yes
+1155,5,4,Yes,Yes,5,Michigan,yes,4,no,yes
+1156,4,3,No,Yes,5,Colorado,yes,4,no,yes
+1157,2,2,No,Yes,5,California,yes,3,no,no
+1158,4,2,No,No,NA,Florida,yes,3,yes,no
+1159,4,3,Yes,Yes,5,Georgia,yes,3,no,yes
+1160,NA,2,NA,NA,NA,Arizona,yes,4,no,yes
+1161,3,3,Yes,No,4,South Carolina,yes,4,no,yes
+1162,4,4,Yes,Yes,4,Wisconsin,yes,3,no,yes
+1163,4,4,Yes,Yes,4,Wisconsin,yes,3,no,yes
+1164,4,2,No,No,5,Iowa,yes,3,no,yes
+1165,4,4,No,No,5,Colorado,yes,3,no,yes
+1166,4,3,No,Yes,5,Texas,no,4,no,yes
+1167,4,3,Yes,Yes,4,Florida,yes,4,yes,yes
+1168,4,2,Yes,Yes,5,California,yes,4,no,yes
+1169,3,2,Yes,No,1,Washington,yes,3,no,yes
+1170,3,2,Yes,Yes,3,Oregon,yes,4,yes,yes
+1171,2,2,Yes,No,5,Wisconsin,yes,4,no,no
+1172,5,5,No,NA,NA,Virginia,no,3,NA,NA
+1173,5,3,No,No,4,Arizona,no,3,no,yes
+1174,5,5,No,Yes,5,South Dakota,yes,3,no,yes
+1175,5,2,Yes,No,5,Pennsylvania,no,3,no,yes
+1176,4,4,Yes,Yes,3,Washington,yes,2,yes,NA
+1177,5,3,Yes,Yes,5,Florida,yes,4,yes,yes
+1178,4,4,No,Yes,3,New York,yes,3,yes,yes
+1179,4,4,Yes,No,1,Florida,no,4,no,yes
+1180,4,4,No,Yes,4,Illinois,yes,2,yes,yes
+1181,3,5,Yes,Yes,5,District of Columbia (DC),yes,4,no,yes
+1182,5,2,Yes,No,4,Michigan,yes,4,no,yes
+1183,4,4,Yes,No,5,New Jersey,yes,3,yes,yes
+1184,5,2,No,Yes,5,New Jersey,yes,3,no,yes
+1185,4,2,Yes,Yes,4,Ohio,no,3,yes,no
+1186,4,4,Yes,Yes,4,Connecticut,yes,3,no,yes
+1187,5,5,No,Yes,5,California,yes,4,no,yes
+1188,4,5,Yes,Yes,5,New Jersey,no,2,yes,yes
+1189,4,4,No,Yes,5,Arkansas,yes,3,yes,yes
+1190,4,3,No,Yes,4,New Jersey,yes,4,no,yes
+1191,5,3,No,No,3,Virginia,yes,4,no,yes
+1192,5,3,No,Yes,5,Rhode Island,yes,4,no,yes
+1193,4,4,Yes,Yes,3,California,yes,4,yes,yes
+1194,5,4,Yes,Yes,5,Maryland,yes,3,yes,yes
+1195,4,4,No,Yes,5,Arizona,yes,4,yes,yes
+1196,4,4,Yes,No,4,Missouri,yes,3,yes,yes
+1197,4,4,Yes,Yes,5,Kansas,yes,2,no,yes
+1198,4,3,Yes,No,5,Maine,yes,3,no,yes
+1199,4,4,Yes,Yes,5,New Jersey,yes,3,no,yes
+1200,4,3,Yes,Yes,5,New York,yes,3,yes,yes
+1201,5,4,No,Yes,5,Texas,yes,3,no,yes
+1202,3,2,Yes,Yes,4,Illinois,yes,3,no,no
+1203,5,3,Yes,Yes,4,Texas,yes,3,no,yes
+1204,3,3,Yes,Yes,5,New Jersey,yes,3,no,yes
+1205,4,4,No,No,5,California,no,3,no,yes
+1206,4,4,No,Yes,5,North Carolina,yes,3,no,yes
+1207,4,2,Yes,No,3,Delaware,no,3,yes,NA
+1208,4,4,Yes,No,1,Texas,no,3,no,yes
+1209,5,5,No,No,5,Texas,no,3,yes,yes
+1210,5,4,Yes,Yes,5,Pennsylvania,yes,3,no,yes
+1211,5,3,Yes,No,3,Montana,yes,3,yes,no
+1212,4,2,No,No,3,California,yes,3,yes,yes
+1213,4,3,No,No,4,New York,yes,3,no,yes
+1214,4,3,No,Yes,5,Florida,yes,3,yes,yes
+1215,5,4,Yes,No,5,Pennsylvania,no,3,yes,yes
+1216,4,2,Yes,No,4,California,yes,3,no,yes
+1217,5,2,No,No,4,Nevada,yes,3,yes,yes
+1218,5,2,Yes,No,5,Florida,yes,3,no,yes
+1219,3,4,Yes,Yes,4,Florida,no,3,yes,no
+1220,4,4,Yes,No,5,Texas,no,3,no,yes
+1221,4,4,Yes,Yes,5,Florida,yes,3,no,yes
+1222,4,5,Yes,Yes,3,New York,yes,3,yes,no
+1223,5,2,Yes,No,1,Virginia,yes,3,yes,yes
+1224,5,5,No,Yes,5,Alabama,yes,3,no,yes
+1225,5,5,Yes,Yes,3,Florida,yes,3,no,yes
+1226,4,5,No,No,5,Connecticut,no,3,no,yes
+1227,5,5,Yes,Yes,1,Illinois,yes,3,no,yes
+1228,4,3,Yes,Yes,5,Florida,yes,3,no,yes
+1229,5,4,Yes,No,5,Texas,yes,3,no,yes
+1230,2,2,No,No,3,Nevada,no,3,NA,NA
+1231,5,3,No,No,3,Nebraska,yes,3,no,yes
+1232,5,3,Yes,Yes,4,North Carolina,yes,3,yes,yes
+1233,5,2,No,Yes,4,Wisconsin,yes,3,yes,yes
+1234,4,4,Yes,No,5,North Carolina,yes,3,no,yes
+1235,5,4,Yes,Yes,4,California,yes,3,no,yes
+1236,5,5,No,No,4,New York,no,3,no,yes
+1237,4,3,Yes,Yes,4,California,yes,3,no,yes
+1238,4,2,Yes,Yes,4,California,no,3,no,yes
+1239,3,4,Yes,Yes,5,Washington,yes,3,no,yes
+1240,4,4,No,Yes,5,Washington,yes,3,yes,yes
+1241,4,4,Yes,No,5,Georgia,yes,3,no,yes
+1242,4,4,No,Yes,5,Washington,yes,3,yes,yes
+1243,3,4,Yes,Yes,4,Georgia,yes,3,no,yes
+1244,5,4,Yes,No,4,New Jersey,yes,3,yes,NA
+1245,5,2,No,No,4,Connecticut,yes,3,no,yes
+1246,5,4,No,Yes,5,Iowa,yes,3,no,yes
+1247,5,5,No,No,1,North Carolina,yes,3,no,yes
+1248,4,4,No,Yes,4,Pennsylvania,yes,3,yes,yes
+1249,4,4,Yes,Yes,3,New Jersey,yes,3,yes,yes
+1250,3,3,Yes,Yes,3,South Carolina,yes,3,yes,yes
+1251,4,4,Yes,Yes,5,Maine,yes,3,no,yes
+1252,4,3,No,No,5,Illinois,yes,3,yes,yes
+1253,5,2,Yes,Yes,5,North Carolina,no,3,no,yes
+1254,4,4,No,Yes,5,North Carolina,yes,3,no,yes
+1255,4,4,No,Yes,4,Wisconsin,yes,3,no,yes
+1256,4,4,Yes,Yes,5,New Mexico,yes,3,yes,no
+1257,5,2,Yes,Yes,4,Minnesota,yes,3,no,yes
+1258,5,4,Yes,Yes,4,Florida,yes,3,yes,yes
+1259,4,4,Yes,No,4,Maryland,yes,3,yes,yes
+1260,5,3,No,Yes,5,Connecticut,yes,3,yes,yes
+1261,5,3,Yes,Yes,4,Missouri,yes,3,yes,yes
+1262,5,3,No,Yes,4,Minnesota,yes,3,no,yes
+1263,4,5,Yes,Yes,4,Florida,no,3,no,yes
+1264,4,3,Yes,Yes,5,Ohio,no,3,no,yes
+1265,4,3,No,Yes,5,Pennsylvania,yes,3,no,yes
+1266,3,4,No,Yes,5,Maryland,yes,3,yes,yes
+1267,5,5,No,No,4,Kentucky,yes,3,no,yes
+1268,4,3,No,No,4,Florida,yes,4,no,yes
+1269,4,3,Yes,Yes,5,Massachusetts,yes,3,no,yes
+1270,4,3,Yes,Yes,5,Florida,yes,3,no,yes
+1271,5,2,Yes,Yes,5,Georgia,yes,3,no,yes
+1272,4,3,Yes,Yes,4,Utah,yes,3,yes,yes
+1273,4,3,Yes,No,3,New Jersey,yes,3,no,yes
+1274,3,4,Yes,No,4,Kentucky,yes,3,no,yes
+1275,4,5,Yes,Yes,5,Kansas,yes,3,no,yes
+1276,5,3,No,Yes,5,Oregon,yes,3,yes,yes
+1277,5,2,Yes,Yes,5,Florida,yes,3,no,yes
+1278,5,5,No,No,4,Pennsylvania,yes,3,no,yes
+1279,4,4,Yes,Yes,4,Pennsylvania,yes,2,yes,yes
+1280,4,4,No,Yes,4,South Carolina,yes,2,yes,yes
+1281,4,4,Yes,Yes,5,Iowa,yes,3,no,yes
+1282,4,4,Yes,Yes,NA,Texas,yes,2,yes,NA
+1283,4,4,No,No,3,Illinois,no,3,no,yes
+1284,5,5,Yes,Yes,5,New Mexico,yes,2,no,NA
+1285,5,5,Yes,No,5,Texas,no,3,no,yes
+1286,5,5,Yes,Yes,3,Louisiana,no,2,no,yes
+1287,4,4,No,Yes,5,Virginia,yes,4,no,yes
+1288,4,4,Yes,Yes,5,New York,no,3,no,yes
+1289,NA,NA,NA,Yes,4,Kansas,no,3,no,yes
+1290,5,4,No,No,5,Indiana,yes,3,no,yes
+1291,4,4,Yes,Yes,3,Utah,yes,2,yes,yes
+1292,5,4,Yes,Yes,5,Illinois,yes,3,no,yes
+1293,5,4,No,No,5,Michigan,yes,3,no,yes
+1294,4,4,Yes,No,5,Illinois,yes,3,yes,yes
+1295,5,4,Yes,Yes,3,Maine,yes,3,yes,yes
+1296,4,4,Yes,Yes,4,Ohio,yes,2,yes,yes
+1297,4,3,Yes,Yes,2,Washington,yes,3,yes,yes
+1298,3,4,Yes,No,5,Florida,yes,3,no,yes
+1299,5,5,Yes,No,5,Wisconsin,yes,3,no,yes
+1300,5,3,No,No,4,Nebraska,yes,3,yes,NA
+1301,5,5,Yes,Yes,5,New Jersey,no,3,yes,yes
+1302,4,3,No,Yes,3,New York,yes,3,no,yes
+1303,5,5,Yes,No,4,Illinois,no,3,no,yes
+1304,3,5,Yes,No,4,Indiana,no,4,yes,NA
+1305,5,4,Yes,Yes,5,Oklahoma,yes,3,yes,yes
+1306,5,5,No,Yes,3,Florida,no,3,yes,yes
+1307,4,4,Yes,Yes,4,Utah,yes,3,yes,yes
+1308,4,3,Yes,Yes,4,Colorado,yes,3,yes,yes
+1309,5,4,Yes,Yes,4,Texas,no,3,no,yes
+1310,4,4,No,Yes,4,Iowa,yes,3,no,yes
+1311,5,4,No,Yes,5,Washington,yes,3,no,yes
+1312,4,4,Yes,Yes,5,Indiana,yes,3,no,yes
+1313,5,5,Yes,Yes,5,Florida,no,3,no,yes
+1314,5,4,Yes,No,5,Oregon,yes,3,no,yes
+1315,5,5,No,Yes,5,Tennessee,yes,3,no,yes
+1316,3,4,Yes,Yes,5,Texas,yes,2,yes,yes
+1317,4,3,Yes,Yes,4,Illinois,yes,2,yes,yes
+1318,5,5,No,NA,5,West Virginia,yes,3,yes,yes
+1319,4,3,No,No,1,Georgia,yes,3,yes,yes
+1320,4,4,Yes,Yes,4,Virginia,yes,3,no,yes
+1321,5,2,No,Yes,5,New York,yes,3,no,yes
+1322,5,3,Yes,No,3,Wisconsin,yes,3,no,yes
+1323,5,3,Yes,No,5,New Mexico,no,3,yes,yes
+1324,5,2,Yes,Yes,5,Illinois,yes,4,no,yes
+1325,4,3,Yes,Yes,3,New York,yes,3,yes,no
+1326,2,3,Yes,No,1,North Carolina,no,3,no,yes
+1327,4,3,No,No,5,California,no,3,no,yes
+1328,4,4,No,No,5,Nevada,yes,3,no,yes
+1329,5,2,Yes,No,5,California,no,3,no,yes
+1330,5,5,Yes,Yes,4,Texas,yes,3,yes,yes
+1331,4,3,Yes,Yes,4,Arizona,yes,3,yes,no
+1332,5,3,No,Yes,4,Illinois,yes,2,yes,yes
+1333,4,3,Yes,No,2,New York,yes,3,yes,no
+1334,4,5,Yes,Yes,4,Wisconsin,yes,3,no,yes
+1335,5,4,Yes,No,5,Colorado,yes,3,yes,yes
+1336,5,3,Yes,No,4,New Jersey,yes,3,no,no
+1337,5,4,Yes,No,3,Illinois,yes,3,yes,yes
+1338,4,3,No,Yes,5,Florida,no,3,no,yes
+1339,5,4,Yes,Yes,4,New York,yes,3,yes,yes
+1340,4,4,No,Yes,4,Minnesota,yes,3,no,yes
+1341,4,3,Yes,Yes,4,Maryland,yes,2,yes,yes
+1342,5,4,Yes,No,5,Utah,yes,3,no,yes
+1343,4,3,No,Yes,3,Washington,yes,3,yes,no
+1344,4,4,Yes,Yes,5,West Virginia,yes,3,no,yes
+1345,5,4,Yes,Yes,3,Pennsylvania,no,4,no,yes
+1346,4,3,Yes,Yes,4,North Carolina,yes,3,yes,yes
+1347,NA,NA,NA,NA,NA,California,yes,3,no,yes
+1348,NA,NA,NA,NA,NA,Illinois,no,3,NA,NA
+1349,4,5,Yes,Yes,4,New York,no,3,yes,NA
+1350,5,4,Yes,Yes,5,Florida,yes,4,no,yes
+1351,5,2,Yes,No,5,Texas,no,3,no,yes
+1352,4,4,Yes,Yes,4,Texas,no,3,no,yes
+1353,4,3,No,Yes,5,New York,yes,3,no,yes
+1354,4,3,Yes,Yes,5,Wyoming,yes,2,yes,yes
+1355,5,4,Yes,No,1,Colorado,yes,2,yes,yes
+1356,4,3,Yes,Yes,5,Illinois,yes,3,yes,yes
+1357,4,4,Yes,Yes,5,Louisiana,yes,3,no,yes
+1358,4,2,Yes,Yes,5,Illinois,yes,3,no,yes
+1359,4,2,Yes,Yes,5,Connecticut,yes,3,yes,yes
+1360,4,4,No,No,5,Nebraska,yes,3,no,yes
+1361,5,4,NA,Yes,4,Illinois,yes,3,no,yes
+1362,5,2,No,Yes,5,California,no,3,no,yes
+1363,5,4,Yes,Yes,5,Georgia,yes,3,no,yes
+1364,2,2,No,Yes,3,Arkansas,no,2,yes,no
+1365,5,2,Yes,No,5,New York,yes,3,no,yes
+1366,4,4,Yes,Yes,5,Iowa,yes,2,no,yes
+1367,4,4,Yes,Yes,5,South Carolina,yes,2,yes,yes
+1368,5,2,Yes,Yes,5,California,yes,3,no,yes
+1369,4,3,Yes,No,3,Louisiana,yes,3,no,yes
+1370,5,3,No,Yes,1,New Mexico,no,2,no,yes
+1371,3,2,Yes,No,3,Colorado,yes,2,yes,NA
+1372,5,3,Yes,Yes,5,Oklahoma,yes,3,no,yes
+1373,5,4,Yes,Yes,4,California,yes,3,no,yes
+1374,5,3,No,Yes,3,Pennsylvania,yes,3,no,yes
+1375,2,2,No,No,1,Texas,no,3,yes,yes
+1376,4,3,No,No,3,Texas,no,3,no,yes
+1377,4,3,Yes,Yes,5,Texas,yes,3,yes,yes
+1378,5,2,Yes,No,4,Minnesota,no,3,yes,yes
+1379,5,4,No,No,4,Alabama,yes,3,no,yes
+1380,4,2,Yes,No,3,Florida,yes,4,yes,no
+1381,4,3,No,Yes,4,California,no,2,yes,yes
+1382,4,2,No,No,3,Alabama,no,2,no,NA
+1383,5,3,Yes,No,4,Michigan,yes,3,NA,no
+1384,4,3,Yes,Yes,5,New Jersey,yes,3,NA,yes
+1385,2,3,No,Yes,5,Kentucky,yes,3,yes,yes
+1386,5,4,Yes,Yes,4,Maryland,no,3,yes,yes
+1387,5,4,Yes,Yes,5,Texas,no,3,no,yes
+1388,5,5,No,Yes,4,Illinois,yes,4,no,yes
+1389,5,5,Yes,Yes,5,North Carolina,no,3,no,yes
+1390,5,2,Yes,No,4,Oregon,yes,3,yes,yes
+1391,5,3,Yes,Yes,3,Texas,yes,3,yes,yes
+1392,4,4,Yes,Yes,4,New Jersey,no,3,yes,yes
+1393,4,3,No,Yes,5,California,yes,3,no,yes
+1394,4,4,Yes,No,4,Wisconsin,yes,3,yes,no
+1395,5,3,Yes,Yes,4,Utah,yes,2,no,yes
+1396,5,3,No,Yes,4,Nevada,yes,4,no,yes
+1397,5,5,Yes,No,5,Tennessee,yes,3,no,yes
+1398,4,4,Yes,Yes,5,Missouri,yes,3,no,yes
+1399,3,2,Yes,No,5,Florida,no,3,no,yes
+1400,4,4,Yes,Yes,4,Maryland,yes,3,no,yes
+1401,4,4,No,Yes,3,Illinois,yes,3,no,yes
+1402,5,5,No,Yes,5,Texas,yes,3,no,yes
+1403,5,4,No,Yes,5,South Carolina,yes,3,no,yes
+1404,4,3,Yes,Yes,4,California,no,2,yes,no
+1405,5,4,Yes,No,1,Indiana,yes,3,yes,yes
+1406,5,4,No,Yes,4,Mississippi,yes,3,no,yes
+1407,5,2,Yes,No,5,Ohio,yes,3,no,yes
+1408,4,3,Yes,No,3,Wisconsin,yes,3,yes,no
+1409,5,4,Yes,No,4,Texas,yes,3,no,yes
+1410,2,2,No,No,4,Connecticut,yes,4,no,no
+1411,4,3,Yes,Yes,5,Illinois,yes,3,no,yes
+1412,4,4,Yes,Yes,4,Texas,yes,3,no,yes
+1413,4,4,Yes,Yes,4,Indiana,yes,3,no,yes
+1414,5,4,No,No,5,Texas,yes,4,no,yes
+1415,4,4,Yes,Yes,5,Texas,yes,4,no,yes
+1416,5,5,Yes,Yes,5,Arizona,yes,3,no,no
+1417,4,4,Yes,No,4,North Carolina,yes,3,yes,yes
+1418,4,2,No,Yes,5,Texas,yes,4,no,yes
+1419,4,3,Yes,Yes,5,Ohio,yes,3,no,no
+1420,5,3,Yes,No,4,Illinois,yes,3,no,yes
+1421,4,3,Yes,No,4,Arizona,no,3,yes,yes
+1422,4,4,Yes,No,5,New Jersey,yes,3,no,yes
+1423,4,3,Yes,No,3,Missouri,yes,2,yes,no
+1424,4,4,Yes,No,3,South Carolina,yes,3,no,yes
+1425,4,2,Yes,No,5,Illinois,yes,4,no,yes
+1426,4,3,Yes,Yes,4,Connecticut,yes,2,yes,yes
+1427,4,3,Yes,No,4,Indiana,yes,3,yes,yes
+1428,5,2,No,No,5,Colorado,yes,3,no,yes
+1429,5,5,Yes,Yes,4,Nevada,no,3,no,yes
+1430,5,4,Yes,No,4,Georgia,no,3,no,yes
+1431,4,4,Yes,Yes,5,Illinois,yes,4,no,yes
+1432,5,5,Yes,Yes,5,South Carolina,no,3,no,yes
+1433,5,5,NA,Yes,5,Massachusetts,yes,2,yes,yes
+1434,5,5,Yes,No,5,California,no,3,no,yes
+1435,3,3,Yes,No,4,Alaska,yes,3,no,yes
+1436,4,4,Yes,Yes,3,Wisconsin,yes,3,yes,yes
+1437,5,5,Yes,Yes,4,California,no,3,yes,yes
+1438,3,3,Yes,No,3,Michigan,yes,3,no,no
+1439,4,4,Yes,No,5,Texas,yes,3,no,yes
+1440,4,3,Yes,Yes,4,North Carolina,yes,4,yes,yes
+1441,4,3,Yes,Yes,3,California,yes,3,no,yes
+1442,4,3,No,No,4,Illinois,yes,3,no,yes
+1443,4,3,No,No,5,Texas,yes,3,yes,yes
+1444,4,4,Yes,No,3,New Jersey,no,3,yes,no
+1445,5,3,Yes,Yes,3,California,yes,2,yes,no
+1446,4,3,Yes,Yes,3,Texas,yes,3,no,yes
+1447,2,2,Yes,No,1,Maine,yes,2,yes,yes
+1448,5,3,Yes,No,1,Pennsylvania,yes,3,yes,yes
+1449,4,5,No,No,5,Michigan,yes,4,no,yes
+1450,5,4,No,Yes,5,Alabama,yes,3,no,yes
+1451,4,4,No,Yes,5,Pennsylvania,yes,4,no,yes
+1452,4,4,No,Yes,4,Colorado,yes,3,yes,yes
+1453,5,3,No,No,5,California,yes,3,no,yes
+1454,4,3,Yes,Yes,5,Wisconsin,no,3,no,yes
+1455,5,4,Yes,Yes,4,California,yes,2,yes,yes
+1456,4,4,Yes,Yes,5,Pennsylvania,no,3,yes,yes
+1457,5,5,No,No,1,Pennsylvania,no,2,yes,NA
+1458,3,4,Yes,Yes,5,Colorado,yes,3,yes,yes
+1459,3,3,No,No,1,California,yes,3,no,yes
+1460,4,3,No,Yes,4,Wisconsin,yes,3,no,yes
+1461,5,2,Yes,Yes,5,Texas,yes,3,yes,yes
+1462,3,4,Yes,Yes,4,California,yes,2,yes,yes
+1463,5,3,No,Yes,4,Minnesota,yes,2,yes,yes
+1464,4,2,Yes,Yes,4,Indiana,yes,2,yes,yes
+1465,5,3,Yes,Yes,5,Minnesota,yes,3,no,yes
+1466,5,4,No,Yes,4,Massachusetts,yes,3,yes,yes
+1467,4,3,Yes,Yes,4,Wisconsin,yes,2,yes,yes
+1468,5,5,Yes,Yes,5,Massachusetts,yes,3,no,yes
+1469,3,3,Yes,Yes,4,Arizona,yes,3,yes,yes
+1470,4,4,Yes,Yes,5,Texas,yes,3,no,yes
+1471,4,3,Yes,Yes,4,Washington,no,3,no,yes
+1472,5,5,Yes,Yes,4,Michigan,yes,3,no,yes
+1473,5,3,Yes,Yes,5,Arizona,yes,4,no,yes
+1474,5,4,No,Yes,5,New Mexico,yes,4,no,yes
+1475,4,4,No,Yes,5,Kansas,yes,3,yes,yes
+1476,4,4,No,Yes,5,Colorado,no,3,no,yes
+1477,5,5,Yes,Yes,5,Indiana,yes,3,no,yes
+1478,5,4,Yes,No,3,Arkansas,yes,2,yes,no
+1479,4,4,Yes,Yes,5,Florida,yes,3,no,yes
+1480,4,4,Yes,No,5,New York,yes,3,no,yes
+1481,4,3,Yes,No,4,Maryland,yes,3,no,yes
+1482,2,2,No,No,3,Florida,no,4,yes,yes
+1483,4,3,No,No,4,Virginia,no,3,yes,yes
+1484,4,5,Yes,Yes,5,Iowa,yes,3,yes,yes
+1485,3,2,Yes,Yes,3,Washington,yes,3,no,yes
+1486,5,3,No,No,5,Florida,yes,3,yes,yes
+1487,4,2,Yes,Yes,NA,Michigan,yes,2,yes,yes
+1488,5,5,Yes,Yes,5,California,no,2,yes,no
+1489,4,3,Yes,Yes,5,Florida,yes,3,no,yes
+1490,4,4,Yes,Yes,5,California,yes,3,no,yes
+1491,4,4,Yes,Yes,4,Kansas,yes,3,no,yes
+1492,4,4,No,Yes,4,Michigan,yes,3,no,yes
+1493,3,4,Yes,No,3,North Carolina,yes,2,yes,no
+1494,5,3,No,No,5,Wisconsin,yes,3,yes,yes
+1495,5,3,No,Yes,5,Virginia,yes,3,no,yes
+1496,4,2,No,No,3,Illinois,yes,3,yes,no
+1497,3,2,Yes,No,4,Texas,no,2,yes,yes
+1498,4,4,Yes,Yes,1,Virginia,yes,3,yes,yes
+1499,5,3,Yes,Yes,5,North Carolina,yes,3,no,yes
+1500,3,3,Yes,Yes,5,New Jersey,yes,4,yes,yes
+1501,4,4,Yes,Yes,3,Florida,yes,3,no,yes
+1502,4,4,Yes,Yes,5,North Carolina,yes,3,no,no
+1503,4,3,Yes,Yes,4,Ohio,yes,3,no,yes
+1504,5,3,Yes,No,4,Florida,yes,3,no,yes
+1505,4,2,No,No,4,South Carolina,yes,3,yes,no
+1506,4,4,Yes,No,5,Virginia,yes,3,no,yes
+1507,4,3,Yes,Yes,5,New York,yes,3,no,yes
+1508,3,3,No,No,3,Michigan,yes,3,no,yes
+1509,2,2,Yes,No,1,Kentucky,yes,4,no,yes
+1510,5,5,Yes,Yes,3,Wisconsin,yes,4,no,yes
+1511,3,3,Yes,Yes,5,Virginia,yes,4,no,yes
+1512,4,5,No,Yes,4,Minnesota,yes,4,no,yes
+1513,4,4,No,Yes,5,Ohio,yes,3,no,yes
+1514,5,5,No,No,3,New York,no,3,no,yes
+1515,4,4,Yes,Yes,5,North Carolina,yes,2,yes,yes
+1516,4,3,Yes,Yes,2,Maryland,yes,3,yes,yes
+1517,5,4,Yes,No,5,Ohio,no,2,yes,yes
+1518,5,4,No,Yes,5,Ohio,yes,3,no,NA
+1519,4,4,Yes,Yes,3,California,yes,4,no,yes
+1520,5,5,Yes,Yes,4,Missouri,yes,3,no,yes
+1521,4,5,No,Yes,5,Wyoming,yes,3,yes,yes
+1522,5,5,Yes,Yes,5,Illinois,yes,3,yes,yes
+1523,5,3,Yes,Yes,5,North Carolina,yes,4,no,yes
+1524,4,3,No,No,5,Wisconsin,yes,3,no,yes
+1525,4,4,Yes,No,2,Connecticut,yes,4,no,no
+1526,3,3,No,Yes,4,California,yes,4,no,no
+1527,4,4,No,Yes,5,Ohio,yes,4,no,yes
+1528,5,3,No,No,3,Florida,yes,3,yes,yes
+1529,5,5,Yes,Yes,4,Wyoming,yes,2,yes,yes
+1530,5,3,Yes,Yes,5,Illinois,yes,3,yes,yes
+1531,4,2,Yes,No,4,Michigan,yes,3,no,yes
+1532,5,3,No,No,3,Ohio,yes,4,no,yes
+1533,5,4,No,Yes,5,Michigan,yes,4,yes,yes
+1534,4,3,Yes,Yes,4,Michigan,yes,3,no,yes
+1535,3,NA,Yes,Yes,3,Arizona,yes,3,yes,no
+1536,4,3,Yes,Yes,4,Texas,yes,3,yes,yes
+1537,4,3,No,No,1,Illinois,yes,2,yes,yes
+1538,4,4,Yes,Yes,5,Alabama,yes,3,no,yes
+1539,5,5,Yes,No,5,Ohio,yes,4,no,yes
+1540,4,3,Yes,Yes,4,New York,no,3,yes,yes
+1541,4,3,Yes,Yes,5,Texas,no,3,yes,yes
+1542,4,3,Yes,Yes,5,Texas,yes,3,no,yes
+1543,4,2,Yes,Yes,3,New York,no,2,yes,yes
+1544,5,3,Yes,Yes,5,California,yes,4,no,yes
+1545,4,3,Yes,No,5,Ohio,yes,3,no,yes
+1546,4,4,Yes,Yes,4,Iowa,yes,4,no,yes
+1547,4,3,Yes,No,3,Minnesota,yes,4,no,yes
+1548,4,3,Yes,No,5,California,no,3,no,yes
+1549,4,4,Yes,NA,NA,Washington,yes,4,yes,yes
+1550,4,4,No,Yes,4,New Jersey,no,3,yes,yes
+1551,5,4,No,Yes,5,Illinois,yes,3,no,yes
+1552,5,4,No,No,4,New Mexico,yes,4,no,yes
+1553,4,3,Yes,No,3,Minnesota,yes,4,yes,yes
+1554,5,4,No,Yes,4,California,no,3,yes,yes
+1555,4,5,Yes,Yes,5,Tennessee,yes,3,no,yes
+1556,4,3,Yes,Yes,4,Georgia,yes,3,no,yes
+1557,4,3,Yes,No,3,New York,yes,2,yes,no
+1558,5,4,Yes,Yes,3,California,no,3,no,yes
+1559,4,3,No,Yes,4,Texas,yes,3,no,yes
+1560,4,4,Yes,Yes,5,Pennsylvania,yes,2,yes,yes
+1561,4,3,No,No,5,Illinois,yes,3,no,yes
+1562,4,4,No,Yes,4,Virginia,yes,3,no,yes
+1563,4,2,Yes,No,3,California,yes,3,no,yes
+1564,4,3,No,Yes,4,Arizona,yes,3,yes,yes
+1565,4,2,Yes,No,3,Minnesota,yes,2,yes,yes
+1566,3,3,Yes,No,3,California,no,2,yes,no
+1567,4,4,Yes,Yes,5,Pennsylvania,yes,3,yes,yes
+1568,4,3,Yes,Yes,3,Ohio,yes,2,yes,NA
+1569,5,4,Yes,Yes,4,Washington,no,2,yes,yes
+1570,4,4,Yes,Yes,5,Texas,yes,3,no,yes
+1571,4,3,Yes,No,5,Arizona,yes,3,no,yes
+1572,2,4,No,Yes,5,North Carolina,yes,2,no,yes
+1573,5,4,Yes,No,1,North Dakota,yes,3,yes,no
+1574,4,4,Yes,Yes,4,California,no,3,no,yes
+1575,5,2,No,Yes,5,Georgia,no,3,no,yes
+1576,5,5,No,Yes,4,Hawaii,yes,3,yes,no
+1577,5,4,Yes,Yes,5,Illinois,no,3,yes,yes
+1578,4,3,Yes,No,5,Washington,no,3,no,yes
+1579,3,5,Yes,Yes,5,Texas,yes,3,no,no
+1580,4,4,Yes,Yes,5,California,no,3,no,yes
+1581,3,3,Yes,Yes,5,New Mexico,yes,3,yes,yes
+1582,5,4,No,No,4,Oregon,yes,3,no,yes
+1583,5,3,No,No,5,California,yes,3,no,yes
+1584,5,2,No,Yes,5,Utah,yes,3,no,yes
+1585,2,2,No,No,1,Alabama,no,2,no,yes
+1586,3,3,Yes,Yes,2,Kentucky,yes,2,yes,yes
+1587,5,2,Yes,Yes,3,Wisconsin,no,3,no,yes
+1588,4,4,Yes,No,3,California,yes,3,yes,no
+1589,4,4,Yes,Yes,5,Michigan,yes,3,yes,yes
+1590,5,2,Yes,Yes,4,Oregon,yes,3,yes,yes
+1591,3,3,Yes,Yes,5,Oklahoma,yes,3,no,yes
+1592,5,5,Yes,Yes,3,Connecticut,no,2,yes,yes
+1593,4,4,Yes,No,4,Florida,no,3,yes,no
+1594,5,5,Yes,Yes,5,Illinois,yes,2,yes,NA
+1595,4,3,Yes,Yes,4,Ohio,yes,3,yes,yes
+1596,4,4,Yes,Yes,5,North Carolina,yes,2,no,yes
+1597,4,4,Yes,No,3,Maryland,yes,2,yes,NA
+1598,4,3,Yes,Yes,4,North Carolina,yes,2,yes,yes
+1599,5,4,No,Yes,5,Virginia,no,3,no,yes
+1600,4,4,Yes,Yes,5,Wisconsin,yes,3,no,yes
+1601,4,3,No,No,5,New Jersey,yes,3,no,yes
+1602,5,5,No,Yes,5,Florida,no,3,yes,yes
+1603,4,4,No,Yes,4,Georgia,yes,2,yes,yes
+1604,5,3,Yes,Yes,5,Washington,yes,3,no,yes
+1605,4,4,Yes,Yes,3,Oregon,no,3,yes,yes
+1606,5,5,Yes,Yes,5,Indiana,yes,2,no,yes
+1607,5,2,No,Yes,5,New York,yes,2,yes,yes
+1608,5,4,Yes,Yes,5,Alaska,no,4,no,yes
+1609,3,3,No,Yes,3,Massachusetts,yes,3,yes,no
+1610,5,2,Yes,Yes,1,Arizona,yes,3,no,yes
+1611,3,2,Yes,No,1,Missouri,yes,2,yes,yes
+1612,5,5,Yes,Yes,5,Colorado,no,3,no,yes
+1613,4,4,Yes,Yes,5,Georgia,yes,3,no,yes
+1614,4,4,Yes,Yes,5,New Mexico,yes,2,yes,yes
+1615,5,2,No,Yes,5,New York,yes,2,yes,yes

@@ -1,0 +1,89 @@
+---
+title: "O que você acha que significa ser homem?"
+author: "Mariana Mendes e Matheus Leal"
+date: "5 de julho de 2019"
+output:
+  rmdformats::readthedown:
+    self_contained: true
+    thumbnails: true
+    lightbox: true
+    gallery: false
+    highlight: tango
+theme: sandstone
+---
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=TRUE}
+library(hrbrthemes)
+library(tidyverse)
+library(modelr)
+library(broom)
+theme_set(theme_bw())
+```
+
+Nessa breve análise fizemos uso dos dados obtidos de uma parceria entre **FiveThirtyEight**, **WNYC** e **SurveyMonkey** para uma pesquisa nacional com 1.615 adultos que se identificam como homens. Nessa pesquisa, as entidades os participantes refletirem suas ideias sobre **masculinidade**, cultura do local de trabalho e intimidade, entre outras coisas.
+
+Trata-se de uma pesquisa extensa e rica, portanto, podamos os dados para simplificação. 
+
+![](https://fivethirtyeight.com/wp-content/uploads/2018/06/0620_masculinity-4x3.jpg?w=575)
+
+Caso se interesse pelo estudo: https://fivethirtyeight.com/features/what-do-men-think-it-means-to-be-a-man/
+
+##Explicando as variáveis
+
+Transformamos nossas variáveis da seguinte forma:
+
+`masculine` - In general, how masculine or “manly” do you feel?  
+  Very masculine = 5  
+  Somewhat masculine = 4  
+  Not very masculine = 3  
+  Not at all masculine = 2  
+`see_as_masculine` - How important is it to you that others see you as masculine?
+  Very important = 5  
+  Somewhat important = 4  
+  Not too important = 3  
+  Not at all important = 2  
+`society_pressure_is_bad` - Do you think that society puts pressure on men in a way that is unhealthy or bad for them?  
+`first_move` - Do you typically feel as though you’re expected to make the first move in romantic relationships?  
+`try_pay_date` - How often do you try to be the one who pays when on a date?  
+  Always  
+  Often  
+  Sometimes  
+  Rarely  
+  Never  
+`age_range` -  
+  18-34 = 2  
+  34-64 = 3  
+  65 or above = 4  
+`kids` - Do you have any children?  
+`straight` - Are you straight?*  
+`white` - Are you white?*  
+`state`  
+
+ps¹: A pesquisa não pediu a idade exata dos participantes.  
+ps²: Na verdade foi perguntado aos participantes sua orientação sexual e raça, mas a fim de pesquisa, transformamos as respostas e adaptamos a pergunta para o formato binário.
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=TRUE}
+data <- read_csv("../data/raw-responses.csv")
+```
+
+##Nosso modelo
+
+```{r}
+data <- data %>% na.omit(data)
+
+md = lm(masculine ~ see_as_masculine + 
+                      first_move + 
+                      society_pressure_is_bad + 
+                      try_pay_date +
+                      white +
+                      age_range +
+                      kids +
+                      straight,
+        data = data
+      )
+
+tidy(md, conf.int = TRUE)
+glance(md)
+```
+
+##Conclusão
